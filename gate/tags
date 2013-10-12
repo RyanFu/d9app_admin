@@ -1,0 +1,1215 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AMQP_DEBUG	./config/dev/config.inc.php	/^define('AMQP_DEBUG', FALSE);$/;"	d
+AMQP_SWICTHER	./config/dev/config.inc.php	/^define('AMQP_SWICTHER', FALSE);$/;"	d
+AVATAR_URL	./config/dev/config.inc.php	/^define('AVATAR_URL', 'http:\/\/imgtest.meiliworks.com');$/;"	d
+ArrayToObject	./libs/Utilities.class.php	/^	public static function ArrayToObject($data) {$/;"	f
+BAIDU_AKEY	./config/dev/config.inc.php	/^define('BAIDU_AKEY', 'vKaGQ5vpjIf4L4gfzHFBGSxb');$/;"	d
+BAIDU_SKEY	./config/dev/config.inc.php	/^define('BAIDU_SKEY', 'AsS4vwWGTiDl5P2lel1k4KMR9WE3ECZK');$/;"	d
+BASE_URL	./config/dev/config.inc.php	/^define('BASE_URL', $DOMAIN_NAME);$/;"	d
+Badrequest	./modules/bad/Badrequest.class.php	/^class Badrequest extends \\Gate\\Libs\\Controller {$/;"	c
+CallbackExpression	./libs/orm/CallbackExpression.class.php	/^class CallbackExpression extends Expression {$/;"	c
+CharField	./libs/orm/CharField.class.php	/^class CharField extends Field {$/;"	c
+Collection	./libs/orm/Collection.class.php	/^class Collection implements \\Countable, \\Iterator, \\ArrayAccess {$/;"	c
+Controller	./libs/Controller.class.php	/^abstract class Controller {$/;"	c
+Curl	./libs/Curl.class.php	/^class Curl{$/;"	c
+CurlLink	./libs/CurlLink.class.php	/^class CurlLink implements \\Gate\\Libs\\IRemoteRequest {$/;"	c
+DBDolphinHelper	./package/helper/DBDolphinHelper.class.php	/^class DBDolphinHelper extends \\Phplib\\DB\\DBModel {$/;"	c
+DOMAIN_NAME	./config/dev/config.inc.php	/^$DOMAIN_NAME = "http:\/\/" . $_SERVER['SERVER_NAME'] . "\/";$/;"	v
+DOUBAN_AKEY_NEW	./config/dev/config.inc.php	/^define('DOUBAN_AKEY_NEW', '04a7e6891d1b44000df7b39b5751cc00');$/;"	d
+DOUBAN_SKEY_NEW	./config/dev/config.inc.php	/^define('DOUBAN_SKEY_NEW', '5d2d4c03ccc41f26');$/;"	d
+DataToArray	./libs/Utilities.class.php	/^    public static function DataToArray($dbData, $keyword) {$/;"	f
+Database	./libs/orm/Database.class.php	/^class Database {$/;"	c
+DatabaseField	./libs/orm/DatabaseField.class.php	/^abstract class DatabaseField {$/;"	c
+Demo	./package/demo/Demo.class.php	/^class Demo{$/;"	c
+Dispatcher	./libs/Dispatcher.class.php	/^class Dispatcher {$/;"	c
+DolphinTaskPath	./config/dev/config.inc.php	/^define('DolphinTaskPath', '\/home\/work\/website\/dolphin\/app\/scripts');$/;"	d
+EDM_APP_KEY	./config/dev/config.inc.php	/^define('EDM_APP_KEY' , '50519e68118e6');$/;"	d
+EDM_URL	./config/dev/config.inc.php	/^define('EDM_URL', 'http:\/\/mail01.meilishuo.com\/setmailqueue');$/;"	d
+Expression	./libs/orm/Expression.class.php	/^class Expression {$/;"	c
+ExpressionNode	./libs/orm/ExpressionNode.class.php	/^abstract class ExpressionNode {$/;"	c
+F	./libs/orm/F.class.php	/^class F extends ExpressionNode {$/;"	c
+Feedback	./package/feedback/Feedback.class.php	/^class Feedback {$/;"	c
+Feedback_add	./modules/help/Feedback_add.class.php	/^class Feedback_add extends \\Gate\\Libs\\Controller {$/;"	c
+Field	./libs/orm/Field.class.php	/^class Field {$/;"	c
+ForeignKey	./libs/orm/ForeignKey.class.php	/^class ForeignKey extends Relation {$/;"	c
+GLOBAL_DOMAIN	./config/dev/config.inc.php	/^define('GLOBAL_DOMAIN', 'meilishuo.com');$/;"	d
+HttpRequest	./libs/HttpRequest.class.php	/^class HttpRequest {$/;"	c
+IOHOST	./config/dev/config.inc.php	/^define('IOHOST', 'http:\/\/zoo.meilishuo.com\/');$/;"	d
+IRemoteRequest	./libs/IRemoteRequest.class.php	/^interface IRemoteRequest {$/;"	i
+Ifilter	./libs/interfaces/Ifilter.class.php	/^interface Ifilter {$/;"	i
+Image	./libs/image/Image.class.php	/^class Image {$/;"	c
+Imagick	./libs/image/Imagick.class.php	/^class Imagick {$/;"	c
+IntegerField	./libs/orm/IntegerField.class.php	/^class IntegerField extends Field {$/;"	c
+Iobservable	./libs/interfaces/Iobservable.class.php	/^interface Iobservable {$/;"	i
+Iobserver	./libs/interfaces/Iobserver.class.php	/^interface Iobserver {$/;"	i
+LIB_PATH	./public/index.php	/^define('LIB_PATH', ROOT_PATH . '\/..\/phplib');$/;"	d
+LOG_COLLECT	./config/dev/config.inc.php	/^define('LOG_COLLECT', 0); $/;"	d
+LOG_PATH	./config/dev/config.inc.php	/^define('LOG_PATH', '\/home\/xiwang\/webdata\/logs\/');$/;"	d
+LinkRemote	./libs/remote/Remote.class.php	/^class LinkRemote {$/;"	c
+LinkToZoo	./libs/ZooClient.class.php	/^class LinkToZoo {$/;"	c
+Login	./modules/auth/Login.class.php	/^class Login extends \\Gate\\Libs\\Controller {$/;"	c
+MAGIC_QUOTES_GPC	./libs/Utilities.class.php	/^            define("MAGIC_QUOTES_GPC", "");$/;"	d
+MEDAL_EXP_ANSWER	./config/dev/config.inc.php	/^define("MEDAL_EXP_ANSWER", 'answer');$/;"	d
+MEDAL_EXP_BEST_ANSWER	./config/dev/config.inc.php	/^define("MEDAL_EXP_BEST_ANSWER", 'best_answer');$/;"	d
+MEDAL_EXP_GIRL	./config/dev/config.inc.php	/^define("MEDAL_EXP_GIRL", 'girl');$/;"	d
+MEDAL_EXP_GOODS	./config/dev/config.inc.php	/^define("MEDAL_EXP_GOODS", 'goods');$/;"	d
+MEDAL_EXP_PERSON	./config/dev/config.inc.php	/^define("MEDAL_EXP_PERSON", 'newperson');$/;"	d
+MEDAL_EXP_PERSON_ID	./config/dev/config.inc.php	/^define("MEDAL_EXP_PERSON_ID", 50);$/;"	d
+MEDAL_EXP_QUESTION	./config/dev/config.inc.php	/^define("MEDAL_EXP_QUESTION", 'question');$/;"	d
+MEDAL_EXP_REPLY	./config/dev/config.inc.php	/^define("MEDAL_EXP_REPLY", 'reply');$/;"	d
+MEDAL_EXP_TOPIC	./config/dev/config.inc.php	/^define("MEDAL_EXP_TOPIC", 'topic');$/;"	d
+MEILISHUO_URL	./config/dev/config.inc.php	/^define('MEILISHUO_URL', 'http:\/\/oawx.meilishuo.com');$/;"	d
+MIX_CRAWL_IMG_URL	./config/dev/config.inc.php	/^define('MIX_CRAWL_IMG_URL', 'http:\/\/zoo.meilishuo.com\/group\/mix_crawl_img');$/;"	d
+MPboundary	./libs/ZooClient.class.php	/^		$MPboundary = '--'.$boundary;$/;"	v
+ManyToManyField	./libs/orm/ManyToManyField.class.php	/^class ManyToManyField extends ExternalField {$/;"	c
+ManyToManyRelation	./libs/orm/ManyToManyRelation.class.php	/^class ManyToManyRelation extends Relation {$/;"	c
+Memcache	./config/dev/Memcache.class.php	/^class Memcache extends \\Phplib\\Config {$/;"	c
+Memcache	./libs/Memcache.class.php	/^class Memcache extends \\Phplib\\Cache\\Memcache {$/;"	c
+MemcacheHelper	./package/helper/MemcacheHelper.class.php	/^class MemcacheHelper extends \\Gate\\Libs\\Memcache{$/;"	c
+Model	./libs/orm/Model.class.php	/^abstract class Model extends Object {$/;"	c
+MySQL	./config/dev/MySQL.class.php	/^class MySQL extends \\Phplib\\Config {$/;"	c
+OA_VIEW_SWITCH	./config/dev/config.inc.php	/^define("OA_VIEW_SWITCH", 'ON');$/;"	d
+Object	./libs/orm/Object.class.php	/^abstract class Object {$/;"	c
+OneToManyRelation	./libs/orm/OneToManyRelation.class.php	/^class OneToManyRelation extends Relation {$/;"	c
+Q	./libs/orm/Q.class.php	/^class Q extends ExpressionNode {$/;"	c
+QPLUS_APP_ID	./config/dev/config.inc.php	/^define('QPLUS_APP_ID', '200002116');$/;"	d
+QPLUS_APP_SECRET	./config/dev/config.inc.php	/^define('QPLUS_APP_SECRET', 'Xu2xYTfcHFEn3vB5');$/;"	d
+QZONE_ID	./config/dev/config.inc.php	/^define('QZONE_ID', '210915');$/;"	d
+QZONE_KEY	./config/dev/config.inc.php	/^define('QZONE_KEY', 'a07ca0a76cd200132516256ef5b8b8f3');$/;"	d
+QueryFilter	./libs/orm/QueryFilter.class.php	/^class QueryFilter extends QuerySub {$/;"	c
+QueryManager	./libs/orm/QueryManager.class.php	/^class QueryManager {$/;"	c
+QuerySet	./libs/orm/QuerySet.class.php	/^class QuerySet implements \\IteratorAggregate, \\ArrayAccess, \\Countable {$/;"	c
+QuerySub	./libs/orm/QuerySub.class.php	/^abstract class QuerySub extends QuerySet {$/;"	c
+RENREN_API_KEY	./config/dev/config.inc.php	/^define('RENREN_API_KEY', '9d98d5371349498086dce6af7fe87ffb');$/;"	d
+RENREN_SECRET	./config/dev/config.inc.php	/^define('RENREN_SECRET', 'b6942bece88146c096a4967c451e25e5');$/;"	d
+RMQ_HOST	./config/dev/config.inc.php	/^define('RMQ_HOST', '172.16.0.67');$/;"	d
+RMQ_HOST_2	./config/dev/config.inc.php	/^define('RMQ_HOST_2', '172.16.0.66');$/;"	d
+RMQ_PASS	./config/dev/config.inc.php	/^define('RMQ_PASS', 'guest');$/;"	d
+RMQ_PASS_2	./config/dev/config.inc.php	/^define('RMQ_PASS_2', 'guest');$/;"	d
+RMQ_PORT	./config/dev/config.inc.php	/^define('RMQ_PORT', 5672);$/;"	d
+RMQ_PORT_2	./config/dev/config.inc.php	/^define('RMQ_PORT_2', 5672);$/;"	d
+RMQ_USER	./config/dev/config.inc.php	/^define('RMQ_USER', 'guest');$/;"	d
+RMQ_USER_2	./config/dev/config.inc.php	/^define('RMQ_USER_2', 'guest');$/;"	d
+RMQ_VHOST	./config/dev/config.inc.php	/^define('RMQ_VHOST', '\/');$/;"	d
+RMQ_VHOST_2	./config/dev/config.inc.php	/^define('RMQ_VHOST_2', '\/');$/;"	d
+ROOT_DOMAIN	./config/dev/config.inc.php	/^define('ROOT_DOMAIN', 'meilishuo.com');$/;"	d
+ROOT_PATH	./public/index.php	/^define('ROOT_PATH', __DIR__ . '\/..');$/;"	d
+Redis	./config/dev/Redis.class.php	/^class Redis extends \\Phplib\\Config {$/;"	c
+Redis	./libs/Redis.class.php	/^abstract class Redis extends \\Phplib\\Redis\\Redis {$/;"	c
+RedisCache	./package/helper/RedisCache.class.php	/^class RedisCache extends \\Gate\\Libs\\Redis {$/;"	c
+Relation	./libs/orm/Relation.class.php	/^abstract class Relation extends Field {$/;"	c
+Remote	./libs/remote/Remote.class.php	/^class Remote {$/;"	c
+SnakeClient	./libs/SnakeClient.class.php	/^class SnakeClient {$/;"	c
+TAOBAO_APPKEY	./config/dev/config.inc.php	/^define('TAOBAO_APPKEY', '12081673'); \/\/ 填写自己申请的AppKey$/;"	d
+TAOBAO_APPKEY1	./config/dev/config.inc.php	/^define('TAOBAO_APPKEY1','12173575');  \/\/ 填写自己申请的AppKey$/;"	d
+TAOBAO_APPKEY_AUTH	./config/dev/config.inc.php	/^define('TAOBAO_APPKEY_AUTH', '12173575'); \/\/填写自己申请的AppKey$/;"	d
+TAOBAO_APPKEY_NEW	./config/dev/config.inc.php	/^define('TAOBAO_APPKEY_NEW', '12153814'); \/\/ 填写自己申请的AppKey$/;"	d
+TAOBAO_APPSECRET	./config/dev/config.inc.php	/^define('TAOBAO_APPSECRET', '1e7a34f1d971fe81df6b1889f38f800d'); \/\/ 填写自己申请的$appSecret$/;"	d
+TAOBAO_APPSECRET1	./config/dev/config.inc.php	/^define('TAOBAO_APPSECRET1','84939bdd86776f237d9dbdd49a2ace54');  \/\/ 填写自己申请的$appSecret$/;"	d
+TAOBAO_APPSECRET_AUTH	./config/dev/config.inc.php	/^define('TAOBAO_APPSECRET_AUTH', '84939bdd86776f237d9dbdd49a2ace54'); \/\/填写自己申请的$appSecret$/;"	d
+TAOBAO_APPSECRET_NEW	./config/dev/config.inc.php	/^define('TAOBAO_APPSECRET_NEW', 'afa73e6b412859dd7f012f589a32751a'); \/\/ 填写自己申请的$appSecret$/;"	d
+TAOBAO_NICKNAME	./config/dev/config.inc.php	/^define('TAOBAO_NICKNAME', 'xphpx'); \/\/ 淘宝昵称$/;"	d
+TAOBAO_TOKEN_URL	./config/dev/config.inc.php	/^define('TAOBAO_TOKEN_URL', 'https:\/\/oauth.taobao.com\/token');$/;"	d
+TAOBAO_URL	./config/dev/config.inc.php	/^define('TAOBAO_URL', 'http:\/\/gw.api.taobao.com\/router\/rest?'); \/\/ 淘宝api地址$/;"	d
+TAOBAO_USER_AUTHORIZE	./config/dev/config.inc.php	/^define('TAOBAO_USER_AUTHORIZE', 'http:\/\/container.open.taobao.com\/container?appkey=' . TAOBAO_APPKEY_NEW); \/\/ 获得用户授权码的页面地址$/;"	d
+TAOBAO_USER_AUTHORIZE_AUTH	./config/dev/config.inc.php	/^define('TAOBAO_USER_AUTHORIZE_AUTH','https:\/\/oauth.taobao.com\/authorize?response_type=code&state=1&client_id='. TAOBAO_APPKEY_AUTH); \/\/ 获得用户授权码的页面地址$/;"	d
+TEMPLATE_PATH	./config/dev/config.inc.php	/^define("TEMPLATE_PATH", '\/home\/xiwang\/gate\/views\/');$/;"	d
+TX_AKEY	./config/dev/config.inc.php	/^define("TX_AKEY", '95fd1cb5bf304d259fdaec43297d8b33');$/;"	d
+TX_SKEY	./config/dev/config.inc.php	/^define("TX_SKEY", '0c31da9fbfea6a54a9f91c5b1ac3a621');$/;"	d
+Task	./libs/Task.class.php	/^class Task {$/;"	c
+TaskPath	./config/dev/config.inc.php	/^define('TaskPath', '\/home\/work\/virus\/public');$/;"	d
+TemplateDriver	./libs/TemplateDriver.class.php	/^class TemplateDriver {$/;"	c
+Test	./modules/demo/Test.class.php	/^class Test extends \\Gate\\Libs\\Controller {$/;"	c
+Utilities	./libs/Utilities.class.php	/^class Utilities {$/;"	c
+VException	./libs/VException.class.php	/^class VException extends \\Exception {$/;"	c
+WB_AKEY	./config/dev/config.inc.php	/^define("WB_AKEY",'463778370');$/;"	d
+WB_SKEY	./config/dev/config.inc.php	/^define("WB_SKEY",'5debfe56a704c557370e8b38b848a9b7');$/;"	d
+WY_AKEY_NEW	./config/dev/config.inc.php	/^define('WY_AKEY_NEW', 'tmjviiCQmmElRydo');$/;"	d
+WY_SKEY_NEW	./config/dev/config.inc.php	/^define('WY_SKEY_NEW', 'vikYwBGilmdsjScjMEbEqlWcVCHqcMp6');$/;"	d
+Welcome	./modules/welcome/Welcome.class.php	/^class Welcome extends \\Gate\\Libs\\Controller {$/;"	c
+YIHAODIAN_TRACKER_U	./config/dev/config.inc.php	/^define('YIHAODIAN_TRACKER_U', 101928927);$/;"	d
+YIHAODIAN_URL	./config/dev/config.inc.php	/^define('YIHAODIAN_URL', 'http:\/\/unioncps.yihaodian.com\/common\/service.do?');$/;"	d
+ZooClient	./libs/ZooClient.class.php	/^class ZooClient {$/;"	c
+_AND_	./libs/orm/ExpressionNode.class.php	/^function _AND_($args) {$/;"	f
+_OR_	./libs/orm/ExpressionNode.class.php	/^function _OR_($args) {$/;"	f
+__callStatic	./libs/Redis.class.php	/^    public static function __callStatic($method_name, $arguments) {$/;"	f
+__callback	./libs/orm/Field.class.php	/^	public static function __callback(QuerySet $query, $field) {$/;"	f
+__construct	./config/dev/Memcache.class.php	/^	protected function __construct() {$/;"	f
+__construct	./config/dev/MySQL.class.php	/^	protected function __construct() {$/;"	f
+__construct	./config/dev/Redis.class.php	/^	public function __construct() {$/;"	f
+__construct	./libs/Controller.class.php	/^	public function __construct($request) {$/;"	f
+__construct	./libs/Curl.class.php	/^	function __construct() {$/;"	f
+__construct	./libs/CurlLink.class.php	/^	public function __construct() {$/;"	f
+__construct	./libs/Dispatcher.class.php	/^	private function __construct() {$/;"	f
+__construct	./libs/HttpRequest.class.php	/^	public function __construct() {$/;"	f
+__construct	./libs/Memcache.class.php	/^    protected function __construct() {$/;"	f
+__construct	./libs/SnakeClient.class.php	/^	private function __construct($remote, $type) {$/;"	f
+__construct	./libs/Task.class.php	/^	public function __construct($args = array()) {$/;"	f
+__construct	./libs/TemplateDriver.class.php	/^	public function __construct() {$/;"	f
+__construct	./libs/VException.class.php	/^    public function __construct($message, $error_code = 11011, $http_code = 400, $related_args = array()) {$/;"	f
+__construct	./libs/ZooClient.class.php	/^	function __construct($userId) {$/;"	f
+__construct	./libs/ZooClient.class.php	/^	private function __construct($user_id) {$/;"	f
+__construct	./libs/image/Imagick.class.php	/^    public function __construct(){$/;"	f
+__construct	./libs/orm/CallbackExpression.class.php	/^	public function __construct(QuerySet $query, $field) {$/;"	f
+__construct	./libs/orm/CharField.class.php	/^	public function __construct($options = array()) {$/;"	f
+__construct	./libs/orm/Collection.class.php	/^	public function __construct(QuerySet $query) {$/;"	f
+__construct	./libs/orm/Database.class.php	/^	private function __construct($database) {$/;"	f
+__construct	./libs/orm/DatabaseField.class.php	/^	public function __construct($options = array()) {$/;"	f
+__construct	./libs/orm/Expression.class.php	/^	public function __construct($field, $operator, $value) {$/;"	f
+__construct	./libs/orm/ExpressionNode.class.php	/^	public function __construct($field) {$/;"	f
+__construct	./libs/orm/ForeignKey.class.php	/^    public function __construct($class, $field) {$/;"	f
+__construct	./libs/orm/ManyToManyField.class.php	/^	public function __construct($to_class, $through) {$/;"	f
+__construct	./libs/orm/ManyToManyRelation.class.php	/^	public function __construct($to_class, $through) {$/;"	f
+__construct	./libs/orm/Model.class.php	/^	public function __construct($init = null, $new = FALSE) {$/;"	f
+__construct	./libs/orm/Object.class.php	/^	public function __construct($id = NULL) {$/;"	f
+__construct	./libs/orm/Q.class.php	/^	public function __construct($arg) {$/;"	f
+__construct	./libs/orm/QueryManager.class.php	/^	public function __construct($model) {$/;"	f
+__construct	./libs/orm/QuerySet.class.php	/^	public function __construct($parent, $args = NULL) {$/;"	f
+__construct	./libs/orm/QuerySub.class.php	/^	public function __construct($parent, $args) {$/;"	f
+__construct	./libs/orm/Relation.class.php	/^	public function __construct($class) {$/;"	f
+__construct	./libs/remote/Remote.class.php	/^	function __construct() {$/;"	f
+__construct	./libs/remote/Remote.class.php	/^	protected function __construct($remote) {$/;"	f
+__construct	./package/demo/Demo.class.php	/^    public function __construct() {$/;"	f
+__get	./libs/HttpRequest.class.php	/^	public function __get($name) {$/;"	f
+__get	./libs/orm/DatabaseField.class.php	/^	public function __get($name) {$/;"	f
+__get	./libs/orm/Model.class.php	/^	public function __get($field) {$/;"	f
+__get	./libs/orm/Object.class.php	/^	public function __get($field) {$/;"	f
+__set	./libs/orm/DatabaseField.class.php	/^	public function __set($name, $value) {$/;"	f
+__set	./libs/orm/Model.class.php	/^	public function __set($field, $value) {$/;"	f
+__set	./libs/orm/Object.class.php	/^	public function __set($field, $value) {$/;"	f
+__toString	./libs/HttpRequest.class.php	/^    public function __toString() {$/;"	f
+__toString	./libs/orm/Model.class.php	/^	public function __toString() {$/;"	f
+__toString	./libs/orm/QuerySet.class.php	/^	public function __toString() {$/;"	f
+_dolphin	./config/dev/MySQL.class.php	/^	private function _dolphin() {$/;"	f
+_init	./modules/auth/Login.class.php	/^	private function _init() {$/;"	f
+_init	./modules/demo/Test.class.php	/^	private function _init() {$/;"	f
+_init	./modules/help/Feedback_add.class.php	/^    private function _init() {$/;"	f
+action	./libs/Dispatcher.class.php	/^	private $action = NULL;$/;"	v
+action	./libs/Dispatcher.class.php	/^            $action = array_shift($path_args);$/;"	v
+action	./libs/Dispatcher.class.php	/^            $this->action = $action;$/;"	v
+action	./libs/Dispatcher.class.php	/^            empty($action) && $action = 'Welcome';$/;"	v
+action	./libs/Dispatcher.class.php	/^            empty($action) && $action = 'badrequest';$/;"	v
+action	./libs/TemplateDriver.class.php	/^       $this->action = array_shift($path_args);$/;"	v
+action	./libs/TemplateDriver.class.php	/^    protected $action;$/;"	v
+add	./libs/orm/ExpressionNode.class.php	/^	public function add($s, $modifier) {$/;"	f
+add	./libs/orm/F.class.php	/^	public function add($f, $modifier) {$/;"	f
+addData	./package/feedback/Feedback.class.php	/^    public static function addData($params) {$/;"	f
+addLog	./libs/Utilities.class.php	/^    public static function addLog($logName, $logContent) {$/;"	f
+addObserver	./libs/interfaces/Iobservable.class.php	/^	public function addObserver($observer);$/;"	f
+addWatermark	./libs/image/Imagick.class.php	/^    public function addWatermark($imgLogo,$x,$y,$transparancy = 0,$logoTransparentColor = NULL) {$/;"	f
+add_header	./libs/CurlLink.class.php	/^	public function add_header() {$/;"	f
+add_header	./libs/IRemoteRequest.class.php	/^	public function add_header();	$/;"	f
+add_post_param	./libs/CurlLink.class.php	/^	public function add_post_param() {$/;"	f
+add_post_param	./libs/IRemoteRequest.class.php	/^	public function add_post_param();$/;"	f
+address	./libs/Utilities.class.php	/^			$address = "{$province}{$city}{$district}{$street}";$/;"	v
+address	./libs/Utilities.class.php	/^			$address = "{$province}{$city}市{$district}{$street}";$/;"	v
+address	./libs/Utilities.class.php	/^			$address = "{$province}市{$district}{$street}";$/;"	v
+address	./libs/Utilities.class.php	/^			$address = "{$province}省{$city}市{$district}{$street}";$/;"	v
+addressTransfer	./libs/Utilities.class.php	/^	public static function addressTransfer($province, $city, $district = '', $street = '') {$/;"	f
+adminUid	./libs/Controller.class.php	/^		$adminUid = $this->request->REQUEST['admin_uid'];$/;"	v
+all	./libs/orm/QueryManager.class.php	/^	public function all() {$/;"	f
+analyseResult	./libs/Curl.class.php	/^	public function analyseResult($url = '') {$/;"	f
+arg	./libs/orm/Q.class.php	/^			$arg = "({$arg})";$/;"	v
+arg	./libs/orm/QuerySet.class.php	/^			$arg = self::createExpression($expr, $value);$/;"	v
+args	./libs/CurlLink.class.php	/^		$args = func_get_args();$/;"	v
+args	./libs/Task.class.php	/^		$this->args = $args;$/;"	v
+args	./libs/Task.class.php	/^	protected $args = array();$/;"	v
+args	./libs/Utilities.class.php	/^		$args = array();$/;"	v
+args	./libs/Utilities.class.php	/^		$args = implode('&', $args);$/;"	v
+args	./libs/orm/ExpressionNode.class.php	/^		$args = $args[0];$/;"	v
+args	./libs/orm/ExpressionNode.class.php	/^	$args = func_get_args(); $/;"	v
+args	./libs/orm/QuerySet.class.php	/^		$args = func_get_args();$/;"	v
+args	./libs/orm/QuerySet.class.php	/^	protected $args = array();$/;"	v
+args	./libs/orm/QuerySet.class.php	/^	public function __construct($parent, $args = NULL) {$/;"	v
+args	./libs/remote/Remote.class.php	/^        $args = func_get_args(); $/;"	v
+args	./libs/remote/Remote.class.php	/^        $args = func_get_args();$/;"	v
+array_diff_fast	./libs/Utilities.class.php	/^    public static function array_diff_fast($firstArray, $secondArray) {$/;"	f
+aspect	./libs/image/Imagick.class.php	/^        $aspect = $oHeight \/ $oWidth;$/;"	v
+attach_headers	./libs/CurlLink.class.php	/^    private function attach_headers() {$/;"	f
+attach_post_params	./libs/CurlLink.class.php	/^    private function attach_post_params() {$/;"	f
+author	./libs/Dispatcher.class.php	/^			$author = $this->module . ':' . $this->action;$/;"	v
+authorizeOrderBackend	./libs/Controller.class.php	/^	protected function authorizeOrderBackend() {$/;"	f
+autoloader	./public/index.php	/^$autoloader = \\Phplib\\Autoloader::get($root_path_setting);$/;"	v
+autonomous	./libs/Utilities.class.php	/^		$autonomous = array('宁夏回族自治区' => 1, '新疆维吾尔族自治区' => 1, '西藏自治区' => 1, '广西状族自治区' => 1, '内蒙古自治区' => 1);$/;"	v
+base_path_len	./libs/HttpRequest.class.php	/^			$base_path_len = strlen(rtrim(dirname($_SERVER['SCRIPT_NAME']), '\\\/'));$/;"	v
+beginTransaction	./libs/orm/Database.class.php	/^	private function beginTransaction() {$/;"	f
+body	./libs/ZooClient.class.php	/^				$body = http_build_query($parameters);$/;"	v
+body	./libs/ZooClient.class.php	/^				$body = self::build_http_query_multi($parameters);$/;"	v
+body	./libs/remote/Remote.class.php	/^			$body = http_build_query($parameters);$/;"	v
+boundary	./libs/ZooClient.class.php	/^		self::$boundary = $boundary = uniqid('------------------');$/;"	v
+build_http_query_multi	./libs/ZooClient.class.php	/^	public static function build_http_query_multi($params) {$/;"	f
+bytes	./libs/image/Imagick.class.php	/^                $bytes = $this->imagickObj->getImageBlob();$/;"	v
+bytes	./libs/image/Imagick.class.php	/^                $bytes = $this->imagickObj->getImagesBlob();$/;"	v
+bytes	./libs/image/Imagick.class.php	/^            $bytes = $this->getSingleContent();$/;"	v
+bytes	./libs/image/Imagick.class.php	/^            $bytes = $this->imagickObj->getImageBlob();$/;"	v
+cacheHelper	./package/demo/Demo.class.php	/^        $cacheHelper = MemcacheHelper::instance();$/;"	v
+cacheKey	./package/demo/Demo.class.php	/^		$cacheKey = "Demo:{$twitter_id}";$/;"	v
+cache_time	./package/demo/Demo.class.php	/^	private static $cache_time = 500;$/;"	v
+calcScaleImgSize	./libs/image/Imagick.class.php	/^    static public function calcScaleImgSize($oWidth,$oHeight,$/;"	f
+catchError	./libs/orm/Database.class.php	/^	private function catchError($sth, $sql = '', $params = '') {$/;"	f
+ch	./libs/Curl.class.php	/^		$this->ch = curl_init();	$/;"	v
+ch	./libs/Curl.class.php	/^	var $ch = NULL;$/;"	v
+changeDataKeys	./libs/Utilities.class.php	/^    public static function changeDataKeys($data, $keyName, $toLowerCase=false) {$/;"	f
+changeHSB	./libs/image/Imagick.class.php	/^    public function changeHSB($hue,$saturation,$bright){$/;"	f
+char	./libs/Utilities.class.php	/^				if ($char == '{' || $char == '[') {$/;"	v
+char	./libs/Utilities.class.php	/^			$char = substr($json, $i, 1);$/;"	v
+char	./libs/Utilities.class.php	/^			else if (($char == '}' || $char == ']') && $out_of_quotes) {$/;"	v
+char	./libs/Utilities.class.php	/^			if (($char == ',' || $char == '{' || $char == '[') && $out_of_quotes) {$/;"	v
+checkParams	./modules/help/Feedback_add.class.php	/^    private function checkParams() {$/;"	f
+checkPos	./libs/Curl.class.php	/^		$checkPos = strpos ( $url , "#");$/;"	v
+checkStatusValid	./libs/Controller.class.php	/^	public function checkStatusValid() {$/;"	f
+child	./libs/orm/ExpressionNode.class.php	/^		$this->child = $child;$/;"	v
+child	./libs/orm/ExpressionNode.class.php	/^	protected $child;$/;"	v
+ci	./libs/ZooClient.class.php	/^		$ci = curl_init();$/;"	v
+ci	./libs/remote/Remote.class.php	/^		$ci = curl_init();$/;"	v
+ci	./libs/remote/Remote.class.php	/^	static $ci = NULL;$/;"	v
+class	./libs/Dispatcher.class.php	/^                $class = "\\\\Gate\\\\Modules\\\\Bad\\\\Badrequest";$/;"	v
+class	./libs/Dispatcher.class.php	/^            $class = '\\\\Gate\\\\Modules\\\\' . ucwords($module) . '\\\\' . ucwords($action);$/;"	v
+class	./libs/Redis.class.php	/^		$class = get_called_class();$/;"	v
+class	./libs/orm/Collection.class.php	/^			$class = $this->query->getModel();$/;"	v
+class	./libs/orm/Database.class.php	/^		$class = get_class($obj);$/;"	v
+class	./libs/orm/Model.class.php	/^			$class = get_called_class();$/;"	v
+class	./libs/orm/Model.class.php	/^		$class = get_called_class();$/;"	v
+class	./libs/orm/Model.class.php	/^            $class = get_called_class();$/;"	v
+class	./libs/orm/Object.class.php	/^				$class = get_called_class();$/;"	v
+class	./libs/orm/Object.class.php	/^			$class = get_called_class();$/;"	v
+class	./libs/orm/Object.class.php	/^		$class = get_called_class();$/;"	v
+class	./libs/orm/QuerySet.class.php	/^		$class = $this->getModel();$/;"	v
+class	./libs/orm/Relation.class.php	/^		$this->class = $class;$/;"	v
+class	./libs/orm/Relation.class.php	/^	protected $class = '';$/;"	v
+class	./libs/remote/Remote.class.php	/^		$class = get_called_class();$/;"	v
+class_pk	./libs/orm/Model.class.php	/^			$class_pk = $class::_PRIMARY_KEY_;$/;"	v
+classes	./libs/orm/Model.class.php	/^				$classes = explode(':', $value);$/;"	v
+client	./libs/Controller.class.php	/^	protected $client = NULL;$/;"	v
+client	./libs/SnakeClient.class.php	/^		static $client = array();$/;"	v
+client	./libs/ZooClient.class.php	/^	private static $client = NULL;$/;"	v
+client	./libs/remote/Remote.class.php	/^		static $client = array();$/;"	v
+cloneMyself	./libs/image/Imagick.class.php	/^    public function cloneMyself(){$/;"	f
+code	./libs/VException.class.php	/^        $code = $this->getCode();$/;"	v
+codes	./libs/Controller.class.php	/^		$codes = array($/;"	v
+col	./package/demo/Demo.class.php	/^	private static $col = 'twitter_id, twitter_author_uid, twitter_images_id, twitter_content, twitter_htmlcontent, twitter_create_ip, twitter_create_time';$/;"	v
+col	./package/feedback/Feedback.class.php	/^    private static $col = 'contest_id, huodong_id, huodong_enname, huodong_cnname, user_id, twitter_id, user_desc, create_time, status';$/;"	v
+collection	./libs/orm/QuerySet.class.php	/^			$this->collection = new Collection($this);$/;"	v
+collection	./libs/orm/QuerySet.class.php	/^		$this->collection = NULL;$/;"	v
+collection	./libs/orm/QuerySet.class.php	/^	private $collection = NULL;$/;"	v
+cols	./libs/orm/QuerySet.class.php	/^			$cols = func_get_args();$/;"	v
+commit	./libs/orm/Database.class.php	/^	private function commit() {$/;"	f
+components	./libs/Utilities.class.php	/^        $components = explode(".", $urlHost);$/;"	v
+conf	./libs/orm/Database.class.php	/^				$conf = $this->config['MASTER'];$/;"	v
+conf	./libs/orm/Database.class.php	/^				$conf = $this->config['SLAVES'][array_rand($this->config['SLAVES'])];$/;"	v
+config	./config/dev/MySQL.class.php	/^		$config = array();$/;"	v
+config	./libs/Memcache.class.php	/^		$this->config = \\Phplib\\Config::load('Memcache');$/;"	v
+config	./libs/SnakeClient.class.php	/^		$config = \\Phplib\\Config::load('Remote');$/;"	v
+config	./libs/orm/Database.class.php	/^		$this->config = \\IO\\Libs\\Config::load('MySQL')->$database;$/;"	v
+config	./libs/orm/Database.class.php	/^	private $config; $/;"	v
+config	./libs/remote/Remote.class.php	/^		is_null($this->config) && $this->config = \\Phplib\\Config::load('Remote');$/;"	v
+config	./libs/remote/Remote.class.php	/^    protected $config = NULL;$/;"	v
+conn	./libs/orm/Object.class.php	/^			$conn = \\Phplib\\DB\\Database::getConn($class::_DATABASE_);$/;"	v
+conn	./libs/orm/Object.class.php	/^		static $conn = NULL;$/;"	v
+connect	./libs/SnakeClient.class.php	/^	private $connect = NULL;$/;"	v
+connect	./libs/SnakeClient.class.php	/^        $this->connect = new \\Gate\\Libs\\CurlLink();$/;"	v
+connect	./libs/ZooClient.class.php	/^		$this->connect = new LinkToZoo($user_id);$/;"	v
+connect	./libs/ZooClient.class.php	/^	private $connect;$/;"	v
+connect	./libs/remote/Remote.class.php	/^		$this->connect = new LinkRemote($this->host);$/;"	v
+connect	./libs/remote/Remote.class.php	/^	protected $connect = NULL;$/;"	v
+connection	./libs/orm/Database.class.php	/^			$connection = $this->getConnection(self::MASTER);$/;"	v
+connection	./libs/orm/Database.class.php	/^		$connection = $this->getConnection($type);$/;"	v
+connection	./libs/orm/Database.class.php	/^		$connection = $this->getConnection(self::MASTER);$/;"	v
+connection	./libs/orm/Database.class.php	/^	private $connection = array();$/;"	v
+connecttimeout	./libs/ZooClient.class.php	/^	public $connecttimeout = 5;$/;"	v
+connecttimeout	./libs/remote/Remote.class.php	/^	public $connecttimeout = 1;$/;"	v
+constants	./libs/orm/Model.class.php	/^	 * Get all relations schema. Relations are defined by class constants.$/;"	c
+contrast	./libs/image/Imagick.class.php	/^    public function contrast($amount) {$/;"	f
+control	./libs/Controller.class.php	/^	public function control() {$/;"	f
+controller	./libs/Dispatcher.class.php	/^            $controller = new $class($this->request);$/;"	v
+convertPicture	./libs/Utilities.class.php	/^    public static function convertPicture($key) {$/;"	f
+cookie	./libs/Curl.class.php	/^	public function cookie($cookie) {$/;"	f
+cookie	./libs/Curl.class.php	/^	var $cookie = false;$/;"	v
+cookie_domain	./config/dev/config.inc.php	/^$cookie_domain = $_SERVER['SERVER_NAME'];$/;"	v
+count	./libs/image/Image.class.php	/^        $count = 0;$/;"	v
+count	./libs/orm/Collection.class.php	/^	public function count($load = FALSE) {$/;"	f
+count	./libs/orm/QueryManager.class.php	/^	public function count() {$/;"	f
+count	./libs/orm/QuerySet.class.php	/^	public function count() {$/;"	f
+create	./libs/orm/QueryManager.class.php	/^	public function create($args) {$/;"	f
+create	./libs/orm/QuerySet.class.php	/^	public function create($args) {$/;"	f
+createExpression	./libs/orm/QuerySet.class.php	/^	public static function createExpression($func, $value) {$/;"	f
+createResizeImg	./libs/image/Imagick.class.php	/^    public function createResizeImg($width, $height) {$/;"	f
+createScaleImg	./libs/image/Imagick.class.php	/^    public function createScaleImg($width = NULL, $height = NULL, $upscale = FALSE) {$/;"	f
+createStatement	./libs/orm/QuerySet.class.php	/^	public function createStatement() {$/;"	f
+createUrl	./libs/Utilities.class.php	/^	public static function createUrl($url, $params = array()) {$/;"	f
+createWhere	./libs/orm/QueryFilter.class.php	/^	public function createWhere() {$/;"	f
+createWhere	./libs/orm/QuerySet.class.php	/^	public function createWhere() {$/;"	f
+create_where	./libs/orm/F.class.php	/^	public function create_where($query) {			$/;"	f
+create_where	./libs/orm/Q.class.php	/^	public function create_where($query) {$/;"	f
+crop	./libs/image/Imagick.class.php	/^    public function crop($x,$y,$width,$height){$/;"	f
+cropTo	./libs/image/Imagick.class.php	/^    public function cropTo($x,$y,$width,$height){$/;"	f
+curl	./libs/Curl.class.php	/^	private function curl($url = '') {$/;"	f
+curl_instance	./libs/CurlLink.class.php	/^		$this->curl_instance = curl_init();$/;"	v
+curl_instance	./libs/CurlLink.class.php	/^	private $curl_instance = NULL;$/;"	v
+current	./libs/orm/Collection.class.php	/^	public function current() {$/;"	f
+data	./libs/Curl.class.php	/^		$data = curl_exec($this->ch);$/;"	v
+data	./libs/Redis.class.php	/^        $data = parent::get($id);$/;"	v
+data	./libs/orm/Collection.class.php	/^			$data = Database::queryGetCols($this->query, $this->query->getSelect());$/;"	v
+data	./libs/orm/Collection.class.php	/^			$data = Database::queryGetItems($this->query);$/;"	v
+data	./package/demo/Demo.class.php	/^	private $data = array();$/;"	v
+dateStr	./libs/Utilities.class.php	/^		$dateStr = date('ymd', time());	$/;"	v
+dateStr	./libs/Utilities.class.php	/^		$dateStr = date('ymdi', $_SERVER['REQUEST_TIME']);$/;"	v
+debug	./libs/CurlLink.class.php	/^	private $debug = TRUE;$/;"	v
+debug	./libs/ZooClient.class.php	/^	public $debug = FALSE;$/;"	v
+debug	./libs/remote/Remote.class.php	/^	public $debug = FALSE;$/;"	v
+decode_json	./libs/ZooClient.class.php	/^	public $decode_json = TRUE;$/;"	v
+decr	./libs/Redis.class.php	/^	public static function decr($id) {$/;"	f
+decr	./libs/orm/QuerySet.class.php	/^	public function decr($args) {$/;"	f
+defaults	./libs/orm/DatabaseField.class.php	/^		$defaults = array($/;"	v
+delete	./libs/ZooClient.class.php	/^	function delete($url, $parameters = array()) {$/;"	f
+delete	./libs/orm/Object.class.php	/^	public function delete() {$/;"	f
+delete	./libs/orm/QuerySet.class.php	/^	public function delete() {$/;"	f
+deleteCache	./libs/Redis.class.php	/^	public static function deleteCache($id) {$/;"	f
+delimiter	./libs/Utilities.class.php	/^		$delimiter = FALSE === strpos($url, '?') ? '?' : '&';$/;"	v
+detectBaseUrl	./libs/HttpRequest.class.php	/^	private function detectBaseUrl() {$/;"	f
+dispatch	./libs/Dispatcher.class.php	/^	public function dispatch() {$/;"	f
+dispatcher	./public/index.php	/^$dispatcher = Libs\\Dispatcher::get();$/;"	v
+district	./libs/Utilities.class.php	/^	public static function addressTransfer($province, $city, $district = '', $street = '') {$/;"	v
+doFilter	./libs/interfaces/Ifilter.class.php	/^	public function doFilter($args);$/;"	f
+dolphin	./config/dev/MySQL.class.php	/^		$this->dolphin = $this->_dolphin();$/;"	v
+domain	./libs/Utilities.class.php	/^                $domain = implode('.', array_slice($components, count($components)-2, 2));$/;"	v
+domain	./libs/Utilities.class.php	/^                $domain = implode('.', array_slice($components, count($components)-3, 3));$/;"	v
+echoHeader	./libs/Controller.class.php	/^	protected function echoHeader() {$/;"	f
+echoTemplate	./libs/Controller.class.php	/^    public function echoTemplate() {$/;"	f
+echoView	./libs/Controller.class.php	/^    public function echoView() {$/;"	f
+encodingMethod	./libs/Curl.class.php	/^	var $encodingMethod = 'gzip';$/;"	v
+endMPboundary	./libs/ZooClient.class.php	/^		$endMPboundary = $MPboundary. '--';$/;"	v
+error	./libs/orm/Model.class.php	/^					$error = sprintf("Cannot assign a \\"%s\\" object to ForeignKey field of type \\"%s\\" of a \\"%s\\" Object.", get_class($value), $to_class, $class);$/;"	v
+error	./libs/orm/Model.class.php	/^					$error = sprintf("Invalid field assignment value: value of \\"%s\\" field must be of type \\"%s\\" or an integer.", $field, $to_class);$/;"	v
+error	./libs/orm/Model.class.php	/^				$error = sprintf("Cannot assign a \\"%s\\" object to ForeignKey field of type \\"%s\\" of a \\"%s\\" Object.", get_class($value), $to_class, $class);$/;"	v
+error	./libs/orm/Model.class.php	/^				$error = sprintf("Invalid field assignment value: value of \\"%s\\" field must be of type \\"%s\\" or an integer.", $field, $to_class);$/;"	v
+errorCode	./libs/Controller.class.php	/^	protected function setError($head = 200, $errorCode = 0, $message = 'OK') {$/;"	v
+error_code	./libs/Controller.class.php	/^		$this->error_code = $errorCode;$/;"	v
+error_code	./libs/Controller.class.php	/^	protected $error_code = 0;$/;"	v
+error_code	./libs/Controller.class.php	/^                $error_code = $e->getCode();$/;"	v
+error_code	./libs/VException.class.php	/^    public function __construct($message, $error_code = 11011, $http_code = 400, $related_args = array()) {$/;"	v
+error_message	./libs/VException.class.php	/^        $error_message = "\\"{$message}\\" thrown by " . $file . " in line " . $line . " with code: " . $code;$/;"	v
+error_message	./libs/VException.class.php	/^        $error_message = $this->getEMessage();$/;"	v
+exclude	./libs/orm/QueryManager.class.php	/^	public function exclude() {$/;"	f
+execute	./libs/CurlLink.class.php	/^	public function execute() {$/;"	f
+execute	./libs/IRemoteRequest.class.php	/^	public function execute();$/;"	f
+exists	./libs/Utilities.class.php	/^			$exists = $orderObj->exist();	$/;"	v
+expired	./libs/Redis.class.php	/^		$expired = $class::EXPIRED;$/;"	v
+expr	./libs/orm/QuerySet.class.php	/^						$expr = "{$foreign_key_field}__in";$/;"	v
+expr	./libs/orm/QuerySet.class.php	/^						$expr = "{$foreign_key_field}__{$operator}";$/;"	v
+expr	./libs/orm/QuerySet.class.php	/^				$expr = substr($expr, 1);$/;"	v
+expr	./libs/orm/QuerySet.class.php	/^			foreach ($args[0] AS $expr => $value) {$/;"	v
+expr	./libs/orm/QuerySet.class.php	/^                    $expr = $model_class::_PRIMARY_KEY_ . '__in';$/;"	v
+expr	./libs/orm/QuerySet.class.php	/^            $expr = $args[0];$/;"	v
+extension	./libs/image/Imagick.class.php	/^            if($extension == 'jpg' || $extension == 'jpeg'){$/;"	v
+extension	./libs/image/Imagick.class.php	/^        is_null($extension) && $extension = $this->info['extension'];$/;"	v
+f	./libs/orm/F.class.php	/^			$f = new F($f);$/;"	v
+f	./libs/orm/QuerySet.class.php	/^				$f = $f->add($value, $operator);$/;"	v
+f	./libs/orm/QuerySet.class.php	/^				$f = $value->add($field, $operator);$/;"	v
+f	./libs/orm/QuerySet.class.php	/^				$f = new F($field);$/;"	v
+field	./libs/orm/CallbackExpression.class.php	/^		$this->field = $field;$/;"	v
+field	./libs/orm/Database.class.php	/^		foreach ($args AS $field => $value) {$/;"	v
+field	./libs/orm/Expression.class.php	/^			$this->field = $field;$/;"	v
+field	./libs/orm/Expression.class.php	/^	protected $field = NULL;$/;"	v
+field	./libs/orm/ExpressionNode.class.php	/^		$this->field = $field;$/;"	v
+field	./libs/orm/ExpressionNode.class.php	/^	protected $field;$/;"	v
+field	./libs/orm/Model.class.php	/^				foreach ($init as $field => $value) {$/;"	v
+field	./libs/orm/Object.class.php	/^		foreach (Database::objectLoad($this) AS $field => $value) {$/;"	v
+field	./libs/orm/Object.class.php	/^		if ($field == $class::_PRIMARY_KEY_ || $field == 'id') {$/;"	v
+field	./libs/orm/QuerySet.class.php	/^					$field = $order;$/;"	v
+field	./libs/orm/QuerySet.class.php	/^					$field = substr($order, 1);$/;"	v
+field	./libs/orm/QuerySet.class.php	/^		$field = $arg->getField();$/;"	v
+fields	./libs/orm/Database.class.php	/^		$fields = array();$/;"	v
+fields	./libs/orm/Database.class.php	/^		$fields = implode(', ', $fields);$/;"	v
+fields	./libs/orm/Database.class.php	/^            $fields = explode($class::_PRIMARY_KEY_);$/;"	v
+fields	./libs/orm/Object.class.php	/^			$fields = array();$/;"	v
+fields	./libs/orm/Object.class.php	/^		$this->fields = array();$/;"	v
+fields	./libs/orm/Object.class.php	/^	protected $fields;$/;"	v
+file	./libs/VException.class.php	/^        $file = $this->getFile();$/;"	v
+filter	./libs/orm/QueryManager.class.php	/^	public function filter() {$/;"	f
+filter	./libs/orm/QuerySet.class.php	/^	public function filter() {$/;"	f
+final_array	./libs/CurlLink.class.php	/^		$final_array = array();$/;"	v
+final_array	./libs/CurlLink.class.php	/^        $final_array = $this->post_params;$/;"	v
+finishAnylize	./libs/Dispatcher.class.php	/^	private function finishAnylize() {$/;"	f
+followLocation	./libs/Curl.class.php	/^	var $followLocation = TRUE;$/;"	v
+for	./libs/orm/QuerySet.class.php	/^	 * A shortcut function for retrieving Model table name.$/;"	f
+for	./libs/orm/QuerySet.class.php	/^ * The base class for creating database queries on the table$/;"	c
+force	./libs/Utilities.class.php	/^    public static function zaddslashes($string, $force = 0, $strip = FALSE) {$/;"	v
+force_insert	./libs/orm/Database.class.php	/^	public static function objectSave($obj, $args, $force_insert = FALSE) {$/;"	v
+forcesave	./libs/orm/Object.class.php	/^	public function forcesave() {$/;"	f
+forcesave	./libs/orm/QueryManager.class.php	/^	public function forcesave($args) {$/;"	f
+forcesave	./libs/orm/QuerySet.class.php	/^	public function forcesave($args) {$/;"	f
+foreign_key_field	./libs/orm/QuerySet.class.php	/^					$foreign_key_field = $relation->getField();$/;"	v
+foreign_key_field	./libs/orm/QuerySet.class.php	/^                            $foreign_key_field = $r->getField(); $/;"	v
+foreign_key_field	./libs/orm/QuerySet.class.php	/^                    $foreign_key_field = NULL;$/;"	v
+format	./libs/SnakeClient.class.php	/^	private $format = 'json';$/;"	v
+format	./libs/ZooClient.class.php	/^	public $format = 'json';$/;"	v
+format	./libs/remote/Remote.class.php	/^	public $format = 'json';$/;"	v
+formatArgument	./libs/orm/QuerySet.class.php	/^	public function formatArgument(Expression $arg) {$/;"	f
+formatData	./libs/TemplateDriver.class.php	/^    protected $formatData;$/;"	v
+formatJson	./libs/Controller.class.php	/^	private function formatJson() {$/;"	f
+freshConnect	./libs/Curl.class.php	/^	var $freshConnect = TRUE;$/;"	v
+genOrderId	./libs/Utilities.class.php	/^	public static function genOrderId() {$/;"	f
+get	./libs/Curl.class.php	/^	public function get($url, $referer = '') {$/;"	f
+get	./libs/Dispatcher.class.php	/^	public static function get() {$/;"	f
+get	./libs/SnakeClient.class.php	/^    public function get() {$/;"	f
+get	./libs/ZooClient.class.php	/^	function get($url, $parameters = array()) {$/;"	f
+get	./libs/orm/QueryManager.class.php	/^	public function get() {$/;"	f
+get	./libs/orm/QuerySet.class.php	/^	public function get() {$/;"	f
+get	./libs/remote/Remote.class.php	/^    public function get() {$/;"	f
+getAffectedRows	./libs/orm/Database.class.php	/^	public function getAffectedRows() {$/;"	f
+getAllFields	./libs/orm/Object.class.php	/^	public function getAllFields() {$/;"	f
+getCache	./libs/Redis.class.php	/^    public static function getCache($id) {$/;"	f
+getClass	./libs/orm/Relation.class.php	/^	public function getClass() {$/;"	f
+getCol	./libs/orm/QuerySet.class.php	/^	public function getCol($col) {$/;"	f
+getCollection	./libs/orm/QuerySet.class.php	/^	public function getCollection() {$/;"	f
+getConn	./libs/orm/Database.class.php	/^	public static function getConn($database) {$/;"	f
+getConn	./libs/orm/Object.class.php	/^	public static function getConn() {$/;"	f
+getConnection	./libs/orm/Database.class.php	/^	private function getConnection($type) {$/;"	f
+getContent	./libs/image/Imagick.class.php	/^    public function getContent($extension = NULL,$jpgQuality = 90,$keepAnimation = FALSE){$/;"	f
+getDataInfo	./package/demo/Demo.class.php	/^	public static function getDataInfo($twitter_id = 1){$/;"	f
+getDataInfoNoCache	./package/demo/Demo.class.php	/^	private static function getDataInfoNoCache($twitter_id = 1){$/;"	f
+getDatabase	./libs/orm/ForeignKey.class.php	/^	public function getDatabase() {$/;"	f
+getDetail	./libs/Curl.class.php	/^	public function getDetail($url, $referer = '') {$/;"	f
+getDomain	./libs/Utilities.class.php	/^    public static function getDomain($url, $whole = FALSE) {$/;"	f
+getEMessage	./libs/VException.class.php	/^    public function getEMessage() {$/;"	f
+getExt	./libs/image/Imagick.class.php	/^    public function getExt() {$/;"	f
+getField	./libs/orm/Expression.class.php	/^	public function getField() {$/;"	f
+getField	./libs/orm/ForeignKey.class.php	/^    public function getField() {$/;"	f
+getField	./libs/orm/Object.class.php	/^	protected function getField($field) {$/;"	f
+getHeight	./libs/image/Imagick.class.php	/^    public function getHeight() {$/;"	f
+getHttpCode	./libs/VException.class.php	/^    public function getHttpCode() {$/;"	f
+getIP	./libs/HttpRequest.class.php	/^	private function getIP() {$/;"	f
+getImageInfo	./libs/image/Imagick.class.php	/^    public function getImageInfo() {$/;"	f
+getInsertId	./libs/orm/Database.class.php	/^	public function getInsertId() {$/;"	f
+getInstance	./libs/TemplateDriver.class.php	/^    public static function getInstance() {$/;"	f
+getInstance	./package/demo/Demo.class.php	/^    public static function getInstance(){$/;"	f
+getItem	./libs/orm/Collection.class.php	/^	public function getItem($key) {$/;"	f
+getIterator	./libs/orm/QuerySet.class.php	/^	public function getIterator() {$/;"	f
+getLimitCount	./libs/orm/QuerySet.class.php	/^	public function getLimitCount() {$/;"	f
+getModel	./libs/orm/QuerySet.class.php	/^	public function getModel() {$/;"	f
+getObject	./libs/orm/ForeignKey.class.php	/^	public function getObject($id) {$/;"	f
+getOperator	./libs/orm/Expression.class.php	/^	public function getOperator() {$/;"	f
+getOrderId	./libs/Utilities.class.php	/^	public static function getOrderId() {$/;"	f
+getPictureHost	./libs/Utilities.class.php	/^    private static function getPictureHost($key) {$/;"	f
+getPictureUrl	./libs/Utilities.class.php	/^    public static function getPictureUrl($key, $type = "_o") {$/;"	f
+getPrimaryKey	./libs/orm/ForeignKey.class.php	/^	public function getPrimaryKey() {$/;"	f
+getProcessList	./libs/Utilities.class.php	/^	public static function getProcessList($process) {$/;"	f
+getQuerySet	./libs/orm/QueryManager.class.php	/^	private function getQuerySet() {$/;"	f
+getRelation	./libs/orm/Model.class.php	/^	public static function getRelation($name) {$/;"	f
+getRelations	./libs/orm/Model.class.php	/^	public static function getRelations() {$/;"	f
+getRemote	./libs/SnakeClient.class.php	/^	public static function getRemote($remote, $type = 'curl') {$/;"	f
+getRemote	./libs/remote/Remote.class.php	/^	public static function getRemote() {$/;"	f
+getRequest	./libs/HttpRequest.class.php	/^	public static function getRequest() {$/;"	f
+getRequestMethod	./libs/HttpRequest.class.php	/^	private function getRequestMethod() {$/;"	f
+getRequestPath	./libs/HttpRequest.class.php	/^	private function getRequestPath() {$/;"	f
+getSelect	./libs/orm/QuerySet.class.php	/^	public function getSelect() {$/;"	f
+getSingleContent	./libs/image/Imagick.class.php	/^    public function getSingleContent(){$/;"	f
+getTable	./libs/orm/ForeignKey.class.php	/^	public function getTable() {$/;"	f
+getTable	./libs/orm/QuerySet.class.php	/^	public function getTable() {$/;"	f
+getThroughClass	./libs/orm/ManyToManyField.class.php	/^	public function getThroughClass() {$/;"	f
+getThroughClass	./libs/orm/ManyToManyRelation.class.php	/^	public function getThroughClass() {$/;"	f
+getUniqueId	./libs/Utilities.class.php	/^    public static function getUniqueId() {$/;"	f
+getValue	./libs/orm/Expression.class.php	/^	public function getValue() {$/;"	f
+getValues	./libs/orm/Collection.class.php	/^	public function getValues() {$/;"	f
+getWidth	./libs/image/Imagick.class.php	/^    public function getWidth() {$/;"	f
+getZoo	./libs/ZooClient.class.php	/^	public static function getZoo($user_id = 0) {$/;"	f
+get_action	./libs/Dispatcher.class.php	/^	public function get_action() {$/;"	f
+get_headers	./libs/CurlLink.class.php	/^	private function get_headers() {$/;"	f
+get_module	./libs/Dispatcher.class.php	/^	public function get_module() {$/;"	f
+get_post_params	./libs/CurlLink.class.php	/^    private function get_post_params() {$/;"	f
+get_request	./libs/Dispatcher.class.php	/^	public function get_request() {$/;"	f
+hashKey	./libs/Utilities.class.php	/^        $hashKey = $GLOBALS['PICTURE_DOMAINS_ALLOCATION'][$remain];$/;"	v
+haveHeader	./libs/Curl.class.php	/^	var $haveHeader = TRUE;$/;"	v
+head	./libs/Controller.class.php	/^		$this->head = $head;$/;"	v
+head	./libs/Controller.class.php	/^	protected $head = 200;$/;"	v
+header	./libs/Utilities.class.php	/^			$header = str_replace(' ', '-', ucwords(str_replace('_', ' ', strtolower(substr($key, 5)))));$/;"	v
+header_size	./libs/Curl.class.php	/^		$header_size = curl_getinfo($this->ch, CURLINFO_HEADER_SIZE);$/;"	v
+headers	./libs/CurlLink.class.php	/^	private $headers = array();$/;"	v
+headers	./libs/Utilities.class.php	/^		$headers = array();$/;"	v
+headers	./libs/ZooClient.class.php	/^			$headers = array();$/;"	v
+headers	./libs/remote/Remote.class.php	/^			$headers = array();$/;"	v
+height	./libs/image/Imagick.class.php	/^            $height = !empty($height) ? $height : $width \/ $aspect;$/;"	v
+height	./libs/image/Imagick.class.php	/^            $height = !empty($height) ? $height : 9999999;$/;"	v
+height	./libs/image/Imagick.class.php	/^            $height = $width * $aspect;$/;"	v
+height	./libs/image/Imagick.class.php	/^    public function createScaleImg($width = NULL, $height = NULL, $upscale = FALSE) {$/;"	v
+height0	./libs/image/Imagick.class.php	/^            $height0 = $this->info['height']; $/;"	v
+heightIng	./libs/image/Imagick.class.php	/^                $heightIng = $this->imagickObj->getImageHeight();$/;"	v
+host	./libs/HttpRequest.class.php	/^				$host = trim($host);$/;"	v
+host	./libs/HttpRequest.class.php	/^		$host = $_SERVER['SERVER_NAME'];$/;"	v
+host	./libs/SnakeClient.class.php	/^		$this->host = $hosts[array_rand($hosts)];$/;"	v
+host	./libs/SnakeClient.class.php	/^	private $host = '';$/;"	v
+host	./libs/ZooClient.class.php	/^	private $host = IOHOST; $/;"	v
+host	./libs/ZooClient.class.php	/^	public $host = "";$/;"	v
+host	./libs/remote/Remote.class.php	/^	protected $host;$/;"	v
+host	./libs/remote/Remote.class.php	/^        $this->host = $hosts[array_rand($hosts)];$/;"	v
+hostPart	./libs/Utilities.class.php	/^        $hostPart = self::getPictureHost($key);$/;"	v
+hosts	./libs/HttpRequest.class.php	/^			$hosts = explode(',', $this->request_data['headers']['Clientip']);$/;"	v
+hosts	./libs/SnakeClient.class.php	/^		$hosts = $config->$remote;$/;"	v
+hosts	./libs/remote/Remote.class.php	/^        $hosts = $this->config->$remote;$/;"	v
+html	./libs/Curl.class.php	/^		$html = curl_exec($this->ch);$/;"	v
+http	./libs/SnakeClient.class.php	/^    public function http($http_method) {$/;"	f
+http	./libs/ZooClient.class.php	/^	function http($url, $method, $parameters = NULL, $headers = array()) {$/;"	f
+http	./libs/remote/Remote.class.php	/^	function http($url, $method, $parameters = NULL, $headers = array()) {$/;"	f
+http_code	./libs/Controller.class.php	/^                $http_code = $e->getHttpCode();$/;"	v
+http_code	./libs/VException.class.php	/^        $this->http_code = $http_code;$/;"	v
+http_code	./libs/VException.class.php	/^    private $http_code = 400;$/;"	v
+http_code	./libs/ZooClient.class.php	/^		$this->http_code = curl_getinfo($ci, CURLINFO_HTTP_CODE);$/;"	v
+http_code	./libs/remote/Remote.class.php	/^		$this->http_code = curl_getinfo($ci, CURLINFO_HTTP_CODE);$/;"	v
+http_info	./libs/ZooClient.class.php	/^		$this->http_info = array();$/;"	v
+http_info	./libs/ZooClient.class.php	/^		$this->http_info = array_merge($this->http_info, curl_getinfo($ci));$/;"	v
+http_info	./libs/remote/Remote.class.php	/^		$this->http_info = array();$/;"	v
+http_info	./libs/remote/Remote.class.php	/^		$this->http_info = array_merge($this->http_info, curl_getinfo($ci));$/;"	v
+id	./libs/orm/Database.class.php	/^            $id = array();$/;"	v
+id	./libs/orm/Object.class.php	/^			$this->id = Database::objectReplace($this, $fields);$/;"	v
+id	./libs/orm/Object.class.php	/^			$this->id = Database::objectSave($this, $fields, $force_insert);$/;"	v
+id	./libs/orm/Object.class.php	/^		$this->id = is_null($id) ? 0 : $id;$/;"	v
+id	./libs/orm/Object.class.php	/^	protected $id;$/;"	v
+ids	./libs/orm/QuerySet.class.php	/^					$ids = array();$/;"	v
+imagickObj	./libs/image/Imagick.class.php	/^                $this->imagickObj = FALSE;$/;"	v
+imagickObj	./libs/image/Imagick.class.php	/^                $this->imagickObj = new \\Imagick();$/;"	v
+imagickObj	./libs/image/Imagick.class.php	/^            $this->imagickObj = FALSE;$/;"	v
+imagickObj	./libs/image/Imagick.class.php	/^            $this->imagickObj = new \\Imagick();$/;"	v
+imagickObj	./libs/image/Imagick.class.php	/^        $this->imagickObj = FALSE;$/;"	v
+imagickObj	./libs/image/Imagick.class.php	/^    private $imagickObj;$/;"	v
+imgNew	./libs/image/Imagick.class.php	/^            $imgNew = new ImageImagick();$/;"	v
+in_transaction	./libs/orm/Database.class.php	/^			$this->in_transaction = FALSE;$/;"	v
+in_transaction	./libs/orm/Database.class.php	/^		$this->in_transaction = FALSE;$/;"	v
+in_transaction	./libs/orm/Database.class.php	/^		$this->in_transaction = TRUE;$/;"	v
+in_transaction	./libs/orm/Database.class.php	/^	private $in_transaction;$/;"	v
+incr	./libs/Redis.class.php	/^	public static function incr($id) {$/;"	f
+incr	./libs/orm/QuerySet.class.php	/^	public function incr($args) {$/;"	f
+indent_str	./libs/Utilities.class.php	/^		$indent_str    = '    ';$/;"	v
+info	./libs/CurlLink.class.php	/^			$info = curl_getinfo($this->curl_instance);$/;"	v
+info	./libs/image/Imagick.class.php	/^			$this->info = $this->getImageInfo();$/;"	v
+info	./libs/image/Imagick.class.php	/^                $this->info = $this->getImageInfo();$/;"	v
+info	./libs/image/Imagick.class.php	/^                $this->info = FALSE;$/;"	v
+info	./libs/image/Imagick.class.php	/^            $this->info = FALSE;$/;"	v
+info	./libs/image/Imagick.class.php	/^        $this->info = FALSE;$/;"	v
+info	./libs/image/Imagick.class.php	/^    private $info; \/\/'width','height','extension'$/;"	v
+initCurlLink	./libs/SnakeClient.class.php	/^    private function initCurlLink() {$/;"	f
+initialize	./libs/Curl.class.php	/^	private function initialize() {$/;"	f
+instance	./package/demo/Demo.class.php	/^	private static $instance;$/;"	v
+instance	./package/helper/MemcacheHelper.class.php	/^	static $instance;$/;"	v
+ioRequest	./libs/ZooClient.class.php	/^	function ioRequest($url, $method, $parameters, $multi = false) {$/;"	f
+ioRequest	./libs/remote/Remote.class.php	/^	function ioRequest() {$/;"	f
+ip	./libs/HttpRequest.class.php	/^					$ip = $host;$/;"	v
+ip	./libs/HttpRequest.class.php	/^			$ip = "127.0.0.1";$/;"	v
+ip	./libs/HttpRequest.class.php	/^			$ip = $this->request_data['headers']['Clientip'];$/;"	v
+ip	./libs/HttpRequest.class.php	/^		static $ip;$/;"	v
+isAnimatedGif	./libs/image/Image.class.php	/^    public static function isAnimatedGif($filecontents) {$/;"	f
+isLoaded	./libs/image/Imagick.class.php	/^    public function isLoaded() {$/;"	f
+isNot	./libs/orm/Expression.class.php	/^	public function isNot() {$/;"	f
+isNot	./libs/orm/Q.class.php	/^	public function isNot() {$/;"	f
+isSameSize	./libs/image/Imagick.class.php	/^    public function isSameSize(){$/;"	f
+joins	./libs/orm/F.class.php	/^			$joins = array_merge($joins, $this_joins);$/;"	v
+joins	./libs/orm/F.class.php	/^		$joins = array();$/;"	v
+joins	./libs/orm/Q.class.php	/^			$joins = array_merge($joins, $this_joins);$/;"	v
+joins	./libs/orm/Q.class.php	/^		$joins = array();$/;"	v
+joins	./libs/orm/Q.class.php	/^		$joins = array_merge($joins, $this_joins);$/;"	v
+jpgQuality	./libs/image/Imagick.class.php	/^        is_null($jpgQuality) && $jpgQuality = 90;$/;"	v
+json	./libs/Utilities.class.php	/^		$json = json_encode($data, $options);$/;"	v
+jsonEncode	./libs/Utilities.class.php	/^	public static function jsonEncode($data, $pretty_print = FALSE, $options = 0) {$/;"	f
+k	./libs/Utilities.class.php	/^                $k = strtolower($k);$/;"	v
+k	./libs/Utilities.class.php	/^            $k = $v [$keyName];$/;"	v
+k	./libs/Utilities.class.php	/^        foreach ( $array as $k => $v ) {$/;"	v
+key	./libs/CurlLink.class.php	/^			$key = $args[0];$/;"	v
+key	./libs/CurlLink.class.php	/^			foreach ($args[0] as $key => $value) {$/;"	v
+key	./libs/CurlLink.class.php	/^		foreach ($this->headers as $key => $value) {$/;"	v
+key	./libs/Utilities.class.php	/^		foreach ($params AS $key => $value) {$/;"	v
+key	./libs/Utilities.class.php	/^		foreach($_SERVER as $key => $value) {$/;"	v
+key	./libs/Utilities.class.php	/^                foreach ($string as $key => $val) {$/;"	v
+key	./libs/Utilities.class.php	/^            foreach ($logContent as $key => $value) {$/;"	v
+key	./libs/Utilities.class.php	/^        $key = ltrim($key, '\/');$/;"	v
+key	./libs/Utilities.class.php	/^        $key = str_replace('\/_o\/', '\/' . $type . '\/', $key);$/;"	v
+key	./libs/Utilities.class.php	/^        $key = trim($key);$/;"	v
+key	./libs/Utilities.class.php	/^        foreach ($firstArray as $key => $value) {$/;"	v
+key	./libs/orm/Collection.class.php	/^	public function key() {$/;"	f
+key	./libs/orm/Database.class.php	/^		foreach ($params AS $key => $value) {$/;"	v
+last_sth	./libs/orm/Database.class.php	/^		$this->last_sth = $sth;$/;"	v
+last_sth	./libs/orm/Database.class.php	/^		$this->last_sth = NULL;$/;"	v
+last_sth	./libs/orm/Database.class.php	/^	private $last_sth; \/\/@TODO: sort of an ugly hack for retrieving affected_rows$/;"	v
+limit	./libs/orm/QuerySet.class.php	/^			$limit = "18446744073709551610";$/;"	v
+limit	./libs/orm/QuerySet.class.php	/^		$limit = (int) $limit;$/;"	v
+limit	./libs/orm/QuerySet.class.php	/^		$this->limit = "{$offset}:{$limit}";$/;"	v
+limit	./libs/orm/QuerySet.class.php	/^	protected $limit = NULL;$/;"	v
+limit	./libs/orm/QuerySet.class.php	/^	public function limit($offset = NULL, $limit = NULL) {$/;"	f
+limit	./libs/orm/QuerySet.class.php	/^	public function limit($offset = NULL, $limit = NULL) {$/;"	v
+line	./libs/VException.class.php	/^        $line = $this->getLine();$/;"	v
+load	./libs/image/Imagick.class.php	/^    public function load($filepath) {$/;"	f
+load	./libs/orm/Collection.class.php	/^	public function load() {$/;"	f
+load	./libs/orm/Object.class.php	/^	public function load($from_master = FALSE) {$/;"	f
+loadFooter	./libs/TemplateDriver.class.php	/^    private function loadFooter() {$/;"	f
+loadFromMem	./libs/image/Imagick.class.php	/^    public function loadFromMem($bytes,$ext){$/;"	f
+loadHeader	./libs/TemplateDriver.class.php	/^    private function loadHeader() {$/;"	f
+loadParam	./libs/TemplateDriver.class.php	/^    public function loadParam($module, $action) {$/;"	f
+loadTemplate	./libs/TemplateDriver.class.php	/^    public function loadTemplate($module, $action) {$/;"	f
+loaded	./libs/orm/Collection.class.php	/^		$this->loaded = TRUE;$/;"	v
+loaded	./libs/orm/Collection.class.php	/^	private $loaded = FALSE;$/;"	v
+loaded	./libs/orm/Model.class.php	/^				$this->loaded = TRUE;$/;"	v
+loaded	./libs/orm/Object.class.php	/^		$this->loaded = FALSE;$/;"	v
+loaded	./libs/orm/Object.class.php	/^		$this->loaded = TRUE;$/;"	v
+loaded	./libs/orm/Object.class.php	/^	protected $loaded;$/;"	v
+log	./libs/Controller.class.php	/^                $log = new \\Phplib\\Tools\\Liblog('virus_error_log', 'normal');$/;"	v
+log	./libs/CurlLink.class.php	/^			$log = new \\Phplib\\Tools\\Liblog('curl_link_virus', 'normal');$/;"	v
+log	./libs/Dispatcher.class.php	/^			$log = new \\Phplib\\Tools\\Liblog('gate_error_log', 'normal');$/;"	v
+log	./libs/HttpRequest.class.php	/^			$log = new \\Snake\\Libs\\Base\\SnakeLog("iperror", "normal");$/;"	v
+log	./libs/Utilities.class.php	/^		$log = new \\Phplib\\Tools\\Liblog('check_url_domain', 'normal');$/;"	v
+log	./libs/Utilities.class.php	/^		$log = new \\Phplib\\Tools\\Liblog('doota_orderid_generate_warning', 'normal');$/;"	v
+log	./libs/VException.class.php	/^        $this->log = new \\Phplib\\Tools\\Liblog("exception", "normal");$/;"	v
+log	./libs/VException.class.php	/^    private $log = NULL;$/;"	v
+log	./libs/ZooClient.class.php	/^            $log = new \\Phplib\\Tools\\Liblog("zoodebuglog", "normal");$/;"	v
+log	./libs/remote/Remote.class.php	/^            $log = new \\Phplib\\Tools\\Liblog("remote_log", "normal");$/;"	v
+logContent	./libs/Utilities.class.php	/^            $logContent = substr($str, 0, strlen($str) - 1);$/;"	v
+logHandle	./libs/Utilities.class.php	/^        $logHandle = new \\Phplib\\Tools\\Liblog($logName, 'normal');$/;"	v
+matchArr	./libs/Utilities.class.php	/^        $matchArr = array();$/;"	v
+maybe_field	./libs/orm/Model.class.php	/^			foreach ($through_relations AS $maybe_field => $maybe_relation) {$/;"	v
+maybe_field	./libs/orm/Model.class.php	/^			foreach ($to_class_relations AS $maybe_field => $maybe_relation) {$/;"	v
+message	./libs/Controller.class.php	/^		$this->message = $message;$/;"	v
+message	./libs/Controller.class.php	/^	protected $message = 'OK';$/;"	v
+message	./libs/Controller.class.php	/^                $message = $e->getEMessage();$/;"	v
+message	./libs/Controller.class.php	/^                $message = $e->getMessage();$/;"	v
+message	./libs/VException.class.php	/^        $message = $this->getMessage();$/;"	v
+method	./libs/HttpRequest.class.php	/^		$method = strtolower($_SERVER['REQUEST_METHOD']); $/;"	v
+method	./libs/HttpRequest.class.php	/^		in_array($method, array('get', 'post', 'delete')) || $method = 'get';$/;"	v
+method	./libs/HttpRequest.class.php	/^		static $method;$/;"	v
+method	./libs/remote/Remote.class.php	/^        $method = $args[0];$/;"	v
+method_name	./libs/Redis.class.php	/^        $method_name = ltrim($method_name, '_');$/;"	v
+model	./libs/orm/QueryManager.class.php	/^		$this->model = $model;$/;"	v
+model	./libs/orm/QueryManager.class.php	/^	private $model;$/;"	v
+model_class	./libs/orm/Database.class.php	/^		$model_class = $query->getModel();$/;"	v
+model_class	./libs/orm/QuerySet.class.php	/^		$model_class = $this->getModel();$/;"	v
+modified_fields	./libs/orm/Model.class.php	/^            $modified_fields = array();$/;"	v
+modified_fields	./libs/orm/Model.class.php	/^            $this->modified_fields = $modified_fields;$/;"	v
+modified_fields	./libs/orm/Object.class.php	/^			$this->modified_fields = array();$/;"	v
+modified_fields	./libs/orm/Object.class.php	/^		$this->modified_fields = array();$/;"	v
+modified_fields	./libs/orm/Object.class.php	/^	protected $modified_fields;$/;"	v
+modifier	./libs/orm/ExpressionNode.class.php	/^	protected $modifier;$/;"	v
+modify	./libs/orm/Object.class.php	/^	protected function setField($field, $value, $modify = TRUE) {$/;"	v
+module	./libs/Dispatcher.class.php	/^	private $module = NULL;$/;"	v
+module	./libs/Dispatcher.class.php	/^            $module = array_shift($path_args);$/;"	v
+module	./libs/Dispatcher.class.php	/^            $this->module = $module;$/;"	v
+module	./libs/Dispatcher.class.php	/^            empty($module) && $module = 'bad';$/;"	v
+module	./libs/Dispatcher.class.php	/^            empty($module) && $module = 'welcome';$/;"	v
+module	./libs/TemplateDriver.class.php	/^       $this->module = array_shift($path_args);$/;"	v
+module	./libs/TemplateDriver.class.php	/^    protected $module;$/;"	v
+multi	./libs/ZooClient.class.php	/^	function ioRequest($url, $method, $parameters, $multi = false) {$/;"	v
+multipartbody	./libs/ZooClient.class.php	/^		$multipartbody = '';$/;"	v
+municipality	./libs/Utilities.class.php	/^		$municipality = array('北京' => 1, '天津' => 1, '重庆' => 1, '上海' => 1);$/;"	v
+name	./libs/orm/Model.class.php	/^		foreach ($refl->getConstants() AS $name => $value) {$/;"	v
+name	./libs/orm/Model.class.php	/^	 * Return this object as a string. Simply return class name.$/;"	c
+name	./libs/orm/QuerySet.class.php	/^			throw new \\Exception("Invalid QuerySet parent. Must either be valid Model class name or QuerySet object.");$/;"	c
+name	./libs/orm/QuerySet.class.php	/^	 * Create a new query using provided parent (either class name for root$/;"	c
+name	./libs/orm/QuerySet.class.php	/^	 * or store the class name of the Model for which this QuerySet$/;"	c
+new	./libs/orm/Model.class.php	/^	public function __construct($init = null, $new = FALSE) {$/;"	v
+new	./libs/orm/QuerySet.class.php	/^		$new = array();$/;"	v
+new_line	./libs/Utilities.class.php	/^		$new_line      = "\\n";$/;"	v
+next	./libs/orm/Collection.class.php	/^	public function next() {$/;"	f
+not	./libs/orm/Expression.class.php	/^		$this->not = ($this->not ? FALSE : TRUE);$/;"	v
+not	./libs/orm/Expression.class.php	/^	protected $not = FALSE;$/;"	v
+not	./libs/orm/Q.class.php	/^		else $this->not = false;$/;"	v
+not	./libs/orm/Q.class.php	/^		if (!$this->not) $this->not = true;$/;"	v
+not	./libs/orm/Q.class.php	/^	protected $not = false;$/;"	v
+not	./libs/orm/QuerySet.class.php	/^				$not = TRUE;$/;"	v
+not	./libs/orm/QuerySet.class.php	/^			$not = FALSE;$/;"	v
+num	./libs/Utilities.class.php	/^		$num = (int)$num;$/;"	v
+num_split	./libs/orm/QuerySet.class.php	/^		$num_split = substr_count($func, "__");$/;"	v
+num_split	./libs/orm/QuerySet.class.php	/^            $num_split = substr_count($expr, "__");$/;"	v
+number	./libs/Utilities.class.php	/^			$number = str_pad($rand, 4, '0');	$/;"	v
+obj	./libs/Utilities.class.php	/^			$obj = get_object_vars($obj);$/;"	v
+obj	./libs/orm/QuerySet.class.php	/^		$obj = new $class($args, TRUE);$/;"	v
+objectDelete	./libs/orm/Database.class.php	/^	public static function objectDelete($obj) {$/;"	f
+objectLoad	./libs/orm/Database.class.php	/^	public static function objectLoad($obj) {$/;"	f
+objectReplace	./libs/orm/Database.class.php	/^	public static function objectReplace($obj, $args) {$/;"	f
+objectSave	./libs/orm/Database.class.php	/^	public static function objectSave($obj, $args, $force_insert = FALSE) {$/;"	f
+objectToArray	./libs/Utilities.class.php	/^	public static function objectToArray($obj) {$/;"	f
+objects	./libs/orm/Collection.class.php	/^			$this->objects = $data;$/;"	v
+objects	./libs/orm/Collection.class.php	/^	private $objects = array();$/;"	v
+objects	./libs/orm/Model.class.php	/^	public static function objects() {$/;"	f
+objs	./libs/orm/QuerySet.class.php	/^		$objs = array();$/;"	v
+offset	./libs/ZooClient.class.php	/^	public function user_likes_twitters($user_id = 0, $offset = 0, $limit = 20) {$/;"	v
+offset	./libs/orm/QuerySet.class.php	/^		$offset = (int) $offset;$/;"	v
+offsetExists	./libs/orm/Collection.class.php	/^	public function offsetExists($offset) {$/;"	f
+offsetExists	./libs/orm/QuerySet.class.php	/^	public function offsetExists($offset) {$/;"	f
+offsetGet	./libs/orm/Collection.class.php	/^	public function offsetGet($offset) {$/;"	f
+offsetGet	./libs/orm/QuerySet.class.php	/^	public function offsetGet($limit) {$/;"	f
+offsetSet	./libs/orm/Collection.class.php	/^	public function offsetSet($offset, $value) {$/;"	f
+offsetSet	./libs/orm/QuerySet.class.php	/^	public function offsetSet($offset, $value) {$/;"	f
+offsetUnset	./libs/orm/Collection.class.php	/^	public function offsetUnset($offset) {$/;"	f
+offsetUnset	./libs/orm/QuerySet.class.php	/^	public function offsetUnset($offset) {$/;"	f
+old_view	./modules/help/Feedback_add.class.php	/^            $this->old_view = array('message' => '发送失败');$/;"	v
+old_view	./modules/help/Feedback_add.class.php	/^        $this->old_view = array('message' => '发送成功');$/;"	v
+onChanged	./libs/interfaces/Iobserver.class.php	/^	public function onChanged($sender, $args);$/;"	f
+one	./libs/orm/Database.class.php	/^	public function one($sql, $params = array(), $from_master = FALSE) {$/;"	f
+only	./libs/Curl.class.php	/^	 * for analyseResult function only$/;"	f
+operator	./libs/orm/CallbackExpression.class.php	/^		$this->operator = "IN";$/;"	v
+operator	./libs/orm/Expression.class.php	/^			$this->operator = (!$operator ? "exact" : $operator);$/;"	v
+operator	./libs/orm/Expression.class.php	/^	protected $operator = NULL;$/;"	v
+operator	./libs/orm/QuerySet.class.php	/^					$operator = "*";$/;"	v
+operator	./libs/orm/QuerySet.class.php	/^					$operator = "+";$/;"	v
+operator	./libs/orm/QuerySet.class.php	/^					$operator = "-";$/;"	v
+operator	./libs/orm/QuerySet.class.php	/^					$operator = "\/";$/;"	v
+operator	./libs/orm/QuerySet.class.php	/^		$operator = $arg->getOperator();$/;"	v
+operators	./libs/orm/QuerySet.class.php	/^	public static $operators = array($/;"	v
+opt_name	./libs/orm/DatabaseField.class.php	/^		foreach ($defaults AS $opt_name => $default_value) {$/;"	v
+options	./libs/orm/DatabaseField.class.php	/^	private $options;$/;"	v
+order	./libs/orm/QuerySet.class.php	/^					$order = "ASC";$/;"	v
+order	./libs/orm/QuerySet.class.php	/^					$order = "DESC";$/;"	v
+orderBy	./libs/orm/QuerySet.class.php	/^	public function orderBy($fields) {$/;"	f
+orderId	./libs/Utilities.class.php	/^			$orderId = intval($dateStr . $number);$/;"	v
+orderId	./libs/Utilities.class.php	/^			$orderId = self::genOrderId();	$/;"	v
+orderId	./libs/Utilities.class.php	/^		$orderId = \\Gate\\Package\\Order\\Helper\\RedisOrderId::pop($dateStr);$/;"	v
+orderObj	./libs/Utilities.class.php	/^		$orderObj = new \\Gate\\Package\\Order\\Order();$/;"	v
+order_by	./libs/orm/QuerySet.class.php	/^		$this->order_by = $new;$/;"	v
+order_by	./libs/orm/QuerySet.class.php	/^		$this->order_by = func_get_args();$/;"	v
+order_by	./libs/orm/QuerySet.class.php	/^	protected $order_by = array();$/;"	v
+order_by_array	./libs/Utilities.class.php	/^        $order_by_array = array ();$/;"	v
+order_type	./libs/Utilities.class.php	/^            $order_type = SORT_ASC;$/;"	v
+order_type	./libs/Utilities.class.php	/^            $order_type = SORT_DESC;$/;"	v
+order_type	./libs/Utilities.class.php	/^        $order_type = strtoupper($order_type);$/;"	v
+order_type	./libs/Utilities.class.php	/^    public static function sortArray($array, $order_by, $order_type = 'ASC') {$/;"	v
+orders	./libs/orm/QuerySet.class.php	/^			$orders = array();$/;"	v
+orientation	./libs/image/Imagick.class.php	/^            $orientation = $this->imagickObj->getImageOrientation();$/;"	v
+out	./libs/orm/QuerySet.class.php	/^		\/\/ TODO: lock this function out from being called by anything$/;"	f
+out_of_quotes	./libs/Utilities.class.php	/^				$out_of_quotes = !$out_of_quotes;$/;"	v
+out_of_quotes	./libs/Utilities.class.php	/^		$out_of_quotes = TRUE;$/;"	v
+pairs	./libs/ZooClient.class.php	/^		$pairs = array();$/;"	v
+param	./libs/SnakeClient.class.php	/^	private $param = array();$/;"	v
+param	./libs/SnakeClient.class.php	/^        $this->param = $param['data'];$/;"	v
+parameter	./libs/SnakeClient.class.php	/^            $parameter = http_build_query($this->param);$/;"	v
+parameter	./libs/ZooClient.class.php	/^		foreach ($params as $parameter => $value) {$/;"	v
+parameters	./libs/ZooClient.class.php	/^	function delete($url, $parameters = array()) {$/;"	v
+parameters	./libs/ZooClient.class.php	/^	function get($url, $parameters = array()) {$/;"	v
+parameters	./libs/ZooClient.class.php	/^	function http($url, $method, $parameters = NULL, $headers = array()) {$/;"	v
+parameters	./libs/ZooClient.class.php	/^	function post($url, $parameters = array(), $multi = false) {$/;"	v
+parameters	./libs/remote/Remote.class.php	/^	function http($url, $method, $parameters = NULL, $headers = array()) {$/;"	v
+parameters	./libs/remote/Remote.class.php	/^        $parameters = isset($args[2]) ? $args[2] : array();$/;"	v
+params	./libs/Curl.class.php	/^	public function post($url = '', $params = array()) {$/;"	v
+params	./libs/Utilities.class.php	/^	public static function createUrl($url, $params = array()) {$/;"	v
+params	./libs/ZooClient.class.php	/^		$params = array($/;"	v
+params	./libs/ZooClient.class.php	/^		$params = array();$/;"	v
+params	./libs/ZooClient.class.php	/^	public function twitter_like($twitter_id, $method, $params = array()) {$/;"	v
+params	./libs/orm/Database.class.php	/^		$params = array('_id' => $obj->id);$/;"	v
+params	./libs/orm/Database.class.php	/^		$params = array('_id' => $this->id);$/;"	v
+params	./libs/orm/Database.class.php	/^	public function one($sql, $params = array(), $from_master = FALSE) {$/;"	v
+params	./libs/orm/Database.class.php	/^	public function read($sql, $params = array(), $from_master = FALSE, $hash_key = NULL) {$/;"	v
+params	./libs/orm/Database.class.php	/^	public function write($sql, $params = array()) {$/;"	v
+params	./libs/orm/Database.class.php	/^                $params = array('_id' => $obj->id);$/;"	v
+params	./modules/help/Feedback_add.class.php	/^        $params = array($/;"	v
+params	./package/demo/Demo.class.php	/^		$params = array($/;"	v
+parent	./libs/orm/QuerySet.class.php	/^		$parent = $this->parent;$/;"	v
+parent	./libs/orm/QuerySet.class.php	/^		$this->parent = $parent;$/;"	v
+parent	./libs/orm/QuerySet.class.php	/^	protected $parent = NULL;$/;"	v
+parseArguments	./libs/orm/QuerySet.class.php	/^	private function parseArguments($args) {$/;"	f
+parseRequestHeaders	./libs/Utilities.class.php	/^	public static function parseRequestHeaders() {$/;"	f
+parseTags	./libs/Utilities.class.php	/^	public static function parseTags($string) {$/;"	f
+parse_header	./libs/Curl.class.php	/^    private function parse_header($header) {$/;"	f
+partten	./libs/Utilities.class.php	/^        $partten = "\/(\\#.*\\#)\/siU";$/;"	v
+password	./modules/auth/Login.class.php	/^		$this->password = isset($this->request->REQUEST['password']) ? $this->request->REQUEST['password'] : '';$/;"	v
+password	./modules/auth/Login.class.php	/^	protected $password;$/;"	v
+path	./libs/HttpRequest.class.php	/^				$path = '';$/;"	v
+path	./libs/HttpRequest.class.php	/^			$path = substr(urldecode($request_path), $base_path_len + 1);$/;"	v
+path	./libs/HttpRequest.class.php	/^		static $path;$/;"	v
+path_args	./libs/Dispatcher.class.php	/^            $path_args = $this->request->path_args;$/;"	v
+path_args	./libs/TemplateDriver.class.php	/^       $path_args = $request->path_args;$/;"	v
+pattern	./libs/orm/Model.class.php	/^                $pattern = '\/([a-zA-Z_\\\\\\\\]+)\\(([a-zA-Z_]+)\\)\/';$/;"	v
+pools	./config/dev/Memcache.class.php	/^		$this->pools = array($/;"	v
+port	./libs/HttpRequest.class.php	/^		$port = ($_SERVER['SERVER_PORT'] == 80 ? '' : ':' . $_SERVER['SERVER_PORT']);$/;"	v
+pos	./libs/Utilities.class.php	/^		$pos           = 0;$/;"	v
+pos	./libs/orm/Collection.class.php	/^		$this->pos = 0;$/;"	v
+pos	./libs/orm/Collection.class.php	/^	private $pos = 0;$/;"	v
+post	./libs/Curl.class.php	/^	public function post($url = '', $params = array()) {$/;"	f
+post	./libs/SnakeClient.class.php	/^    public function post() {$/;"	f
+post	./libs/ZooClient.class.php	/^	function post($url, $parameters = array(), $multi = false) {$/;"	f
+post	./libs/remote/Remote.class.php	/^    public function post() {$/;"	f
+post_params	./libs/CurlLink.class.php	/^	private $post_params = array();$/;"	v
+postdata	./libs/ZooClient.class.php	/^					$this->postdata = $parameters;$/;"	v
+postdata	./libs/remote/Remote.class.php	/^                $this->postdata = $parameters;$/;"	v
+prefix	./package/helper/RedisCache.class.php	/^    protected static $prefix = 'Gate:Cache';$/;"	v
+prepare	./libs/orm/Database.class.php	/^	private function prepare($sql, $params, $type) {$/;"	f
+pretty_print	./libs/Utilities.class.php	/^	public static function jsonEncode($data, $pretty_print = FALSE, $options = 0) {$/;"	v
+prev_char	./libs/Utilities.class.php	/^			$prev_char = $char;$/;"	v
+prev_char	./libs/Utilities.class.php	/^		$prev_char     = '';$/;"	v
+primary_key	./libs/orm/Database.class.php	/^		$primary_key = $model_class::_PRIMARY_KEY_;$/;"	v
+protocol	./libs/HttpRequest.class.php	/^		$protocol = isset($_SERVER['HTTPS']) ? 'https:\/\/' : 'http:\/\/';$/;"	v
+proxy	./libs/Curl.class.php	/^    var $proxy = "";   $/;"	v
+push_group_twitter	./libs/ZooClient.class.php	/^	public function push_group_twitter($group_id, $type = NULL, $tids = array()) {$/;"	f
+q	./libs/orm/ExpressionNode.class.php	/^			$q = $q->add(new Q($arg), "&");$/;"	v
+q	./libs/orm/ExpressionNode.class.php	/^			$q = $q->add(new Q($arg), "|");$/;"	v
+q	./libs/orm/ExpressionNode.class.php	/^			$q = new Q($arg);$/;"	v
+q	./libs/orm/ExpressionNode.class.php	/^	$q = false;$/;"	v
+query	./libs/orm/Collection.class.php	/^		$this->query = $query;$/;"	v
+query	./libs/orm/Collection.class.php	/^	private $query = NULL;$/;"	v
+query	./libs/orm/QueryManager.class.php	/^			$this->query = new QuerySet($this->model);$/;"	v
+query	./libs/orm/QueryManager.class.php	/^	private $query;$/;"	v
+queryDecr	./libs/orm/Database.class.php	/^	public static function queryDecr($query, $args) {$/;"	f
+queryDelete	./libs/orm/Database.class.php	/^	public static function queryDelete($query) {$/;"	f
+queryGetCol	./libs/orm/Database.class.php	/^    public static function queryGetCol($query, $field) {$/;"	f
+queryGetCols	./libs/orm/Database.class.php	/^    public static function queryGetCols($query, $fields) {$/;"	f
+queryGetItems	./libs/orm/Database.class.php	/^	public static function queryGetItems($query) {$/;"	f
+queryGetKeys	./libs/orm/Database.class.php	/^	public static function queryGetKeys($query) {$/;"	f
+queryGetLength	./libs/orm/Database.class.php	/^	public static function queryGetLength($query) {$/;"	f
+queryIncr	./libs/orm/Database.class.php	/^	public static function queryIncr($query, $args) {$/;"	f
+queryUpdate	./libs/orm/Database.class.php	/^	public static function queryUpdate($query, $args) {$/;"	f
+quoteSmart	./libs/orm/Database.class.php	/^	public static function quoteSmart($value) {$/;"	f
+rand	./libs/Utilities.class.php	/^			$rand = (string) rand(0, 9999);$/;"	v
+read	./libs/orm/Database.class.php	/^	public function read($sql, $params = array(), $from_master = FALSE, $hash_key = NULL) {$/;"	f
+readHosts	./config/dev/Redis.class.php	/^		$this->readHosts = array($/;"	v
+real_field	./libs/orm/Model.class.php	/^                    $real_field = $relation->getField();$/;"	v
+record	./libs/VException.class.php	/^    private function record() {$/;"	f
+redis_monitor	./libs/Task.class.php	/^		$redis_monitor = RedisMonitor::getMonitor();$/;"	v
+reduceToSingleImg	./libs/image/Imagick.class.php	/^    public function reduceToSingleImg(){$/;"	f
+referer	./libs/Curl.class.php	/^	public function get($url, $referer = '') {$/;"	v
+referer	./libs/Curl.class.php	/^	public function getDetail($url, $referer = '') {$/;"	v
+refl	./libs/orm/Model.class.php	/^		$refl = new \\ReflectionClass($class);$/;"	v
+related_args	./libs/VException.class.php	/^        $this->related_args = $related_args;$/;"	v
+related_args	./libs/VException.class.php	/^    private $related_args = array();$/;"	v
+relation	./libs/orm/Model.class.php	/^		$relation = $class::getRelation($field);$/;"	v
+relation	./libs/orm/Model.class.php	/^                $relation = $class::getRelation($field);$/;"	v
+relation	./libs/orm/QuerySet.class.php	/^                $relation = $model_class::getRelation($field);$/;"	v
+relations	./libs/orm/Model.class.php	/^		$relations = $class::getRelations();$/;"	v
+relations	./libs/orm/Model.class.php	/^		static $relations = array();$/;"	v
+remain	./libs/Utilities.class.php	/^        $remain = abs($remain);$/;"	v
+remain	./libs/Utilities.class.php	/^        $remain = crc32($key) % 100;$/;"	v
+remote	./libs/remote/Remote.class.php	/^		$remote = $class::__REMOTE__;$/;"	v
+request	./libs/Controller.class.php	/^		$this->request = $request;$/;"	v
+request	./libs/Controller.class.php	/^	protected $request = NULL;$/;"	v
+request	./libs/Dispatcher.class.php	/^			$this->request = new \\Gate\\Libs\\HttpRequest();$/;"	v
+request	./libs/Dispatcher.class.php	/^	private $request = NULL;$/;"	v
+request	./libs/TemplateDriver.class.php	/^       $request = new \\Gate\\Libs\\HttpRequest();$/;"	v
+request_data	./libs/HttpRequest.class.php	/^	private $request_data = NULL;$/;"	v
+request_path	./libs/HttpRequest.class.php	/^			$request_path = strtok($_SERVER['REQUEST_URI'], '?');$/;"	v
+request_type	./libs/CurlLink.class.php	/^		$this->request_type = strtoupper($request);$/;"	v
+request_type	./libs/CurlLink.class.php	/^	private $request_type = '';$/;"	v
+resArr	./libs/Utilities.class.php	/^        $resArr = array ();$/;"	v
+resizeTo	./libs/image/Imagick.class.php	/^    public function resizeTo($width, $height) {$/;"	f
+response	./libs/Controller.class.php	/^			$response = array($/;"	v
+response	./libs/CurlLink.class.php	/^		$response = curl_exec($this->curl_instance);$/;"	v
+response	./libs/SnakeClient.class.php	/^            $response = json_decode($response, TRUE);$/;"	v
+response	./libs/SnakeClient.class.php	/^        $response = $this->connect->execute();$/;"	v
+response	./libs/ZooClient.class.php	/^			$response = json_decode($response, true);$/;"	v
+response	./libs/ZooClient.class.php	/^		$response = $this->ioRequest($url, 'DELETE', $parameters);$/;"	v
+response	./libs/ZooClient.class.php	/^		$response = $this->ioRequest($url, 'GET', $parameters);$/;"	v
+response	./libs/ZooClient.class.php	/^		$response = $this->ioRequest($url, 'POST', $parameters, $multi );$/;"	v
+response	./libs/ZooClient.class.php	/^		$response = curl_exec($ci);$/;"	v
+response	./libs/remote/Remote.class.php	/^		$response = curl_exec($ci);$/;"	v
+result	./libs/Curl.class.php	/^		$result = array();$/;"	v
+result	./libs/Curl.class.php	/^        $result = array();$/;"	v
+result	./libs/Utilities.class.php	/^		$result        = '';$/;"	v
+result	./libs/image/Imagick.class.php	/^        $result = array();$/;"	v
+result	./libs/orm/Database.class.php	/^		$result = $class::getConn()->one($sql, $params, $from_master);$/;"	v
+result	./libs/orm/Database.class.php	/^		$result = $model_class::getConn()->one($sql);$/;"	v
+result	./libs/orm/Database.class.php	/^		$result = $model_class::getConn()->read($sql);$/;"	v
+result	./libs/orm/Database.class.php	/^		$result = $model_class::getConn()->write($sql);$/;"	v
+result	./libs/orm/Database.class.php	/^		$result = $this->read($sql, $params, $from_master);$/;"	v
+result	./libs/orm/Database.class.php	/^		$result = array();$/;"	v
+result	./package/demo/Demo.class.php	/^		$result = DBDolphinHelper::getConn()->read($sql, $params);$/;"	v
+result	./package/demo/Demo.class.php	/^		$result = self::getDataInfoNoCache($twitter_id);$/;"	v
+result	./package/demo/Demo.class.php	/^        $result = $cacheHelper->get($cacheKey);$/;"	v
+ret	./package/feedback/Feedback.class.php	/^        $ret = DBFeedbackHelper::getConn()->write($sql, $sql_data);$/;"	v
+ret	./package/feedback/Feedback.class.php	/^        return $ret === FALSE ? FALSE : DBFeedbackHelper::getConn()->getInsertId();$/;"	v
+retArray	./libs/Utilities.class.php	/^        $retArray = array ();$/;"	v
+reverse	./libs/orm/QuerySet.class.php	/^	public function reverse() {$/;"	f
+rewind	./libs/orm/Collection.class.php	/^	public function rewind() {$/;"	f
+rightToken	./libs/Controller.class.php	/^		$rightToken = '4b99ac82830933d95aece3b4f5e47bbf';$/;"	v
+rollback	./libs/orm/Database.class.php	/^	private function rollback() {$/;"	f
+root_path_setting	./public/index.php	/^$root_path_setting = array($/;"	v
+run	./libs/Controller.class.php	/^	abstract public function run();$/;"	f
+run	./modules/auth/Login.class.php	/^	public function run() {$/;"	f
+run	./modules/bad/Badrequest.class.php	/^	public function run() {$/;"	f
+run	./modules/demo/Test.class.php	/^	public function run() {$/;"	f
+run	./modules/help/Feedback_add.class.php	/^    public function run() {$/;"	f
+run	./modules/welcome/Welcome.class.php	/^	public function run() {$/;"	f
+save	./libs/orm/Model.class.php	/^    public function save($force_insert = FALSE) {$/;"	f
+save	./libs/orm/Object.class.php	/^	public function save($force_insert = FALSE) {$/;"	f
+secondArray	./libs/Utilities.class.php	/^        $secondArray = array_flip($secondArray);$/;"	v
+select	./libs/orm/QuerySet.class.php	/^		$this->select = array_flip(array_flip($this->select));$/;"	v
+select	./libs/orm/QuerySet.class.php	/^	protected $select = array();$/;"	v
+select	./libs/orm/QuerySet.class.php	/^    public function select($cols) {$/;"	f
+selects	./libs/orm/Database.class.php	/^		$selects = array();$/;"	v
+selects	./libs/orm/Database.class.php	/^		$selects = implode(', ', $selects);$/;"	v
+self_key_field	./libs/orm/QuerySet.class.php	/^                            $self_key_field = $r->getField();$/;"	v
+self_key_field	./libs/orm/QuerySet.class.php	/^                    $self_key_field = NULL;$/;"	v
+servers	./config/dev/Redis.class.php	/^		$this->servers = array($/;"	v
+set	./libs/orm/Database.class.php	/^		$set = array();$/;"	v
+setCache	./libs/Redis.class.php	/^	public static  function setCache($id, $value) {$/;"	f
+setChild	./libs/orm/ExpressionNode.class.php	/^	protected function setChild($child) {$/;"	f
+setConnectTimeOut	./libs/Curl.class.php	/^	public function setConnectTimeOut($time) {$/;"	f
+setError	./libs/Controller.class.php	/^	protected function setError($head = 200, $errorCode = 0, $message = 'OK') {$/;"	f
+setExtension	./libs/image/Imagick.class.php	/^    public function setExtension($ext) {$/;"	f
+setField	./libs/orm/Object.class.php	/^	protected function setField($field, $value, $modify = TRUE) {$/;"	f
+setHeaderByHttpStatusCode	./libs/Controller.class.php	/^	protected function setHeaderByHttpStatusCode($code) {$/;"	f
+setHttpHeader	./libs/Curl.class.php	/^	public function setHttpHeader($header = array()) {$/;"	f
+setModifier	./libs/orm/ExpressionNode.class.php	/^	protected function setModifier($modifier) {$/;"	f
+setNot	./libs/orm/Expression.class.php	/^	public function setNot() {$/;"	f
+setOpt	./libs/Curl.class.php	/^	private function setOpt() {$/;"	f
+setParam	./libs/SnakeClient.class.php	/^    public function setParam($param) {$/;"	f
+setProxy	./libs/Curl.class.php	/^	public function setProxy($proxy) {$/;"	f
+setTimeOut	./libs/Curl.class.php	/^	public function setTimeOut($time) {$/;"	f
+set_agent	./libs/CurlLink.class.php	/^	public function set_agent($user_agent) {$/;"	f
+set_agent	./libs/IRemoteRequest.class.php	/^	public function set_agent($user_agent);$/;"	f
+set_connect_timeout	./libs/CurlLink.class.php	/^	public function set_connect_timeout($value) {$/;"	f
+set_connect_timeout	./libs/IRemoteRequest.class.php	/^	public function set_connect_timeout($value);$/;"	f
+set_execute_timeout	./libs/CurlLink.class.php	/^	public function set_execute_timeout($value) {$/;"	f
+set_execute_timeout	./libs/IRemoteRequest.class.php	/^	public function set_execute_timeout($value);$/;"	f
+set_http_request	./libs/CurlLink.class.php	/^	public function set_http_request($request) {$/;"	f
+set_http_request	./libs/IRemoteRequest.class.php	/^	public function set_http_request($request);$/;"	f
+set_http_version	./libs/CurlLink.class.php	/^	public function set_http_version($version) {$/;"	f
+set_http_version	./libs/IRemoteRequest.class.php	/^	public function set_http_version($version);$/;"	f
+set_not	./libs/orm/Q.class.php	/^	public function set_not() {$/;"	f
+set_url	./libs/CurlLink.class.php	/^	public function set_url($url) {$/;"	f
+set_url	./libs/IRemoteRequest.class.php	/^	public function set_url($url);$/;"	f
+sharpenEx	./libs/image/Imagick.class.php	/^    public function sharpenEx($amount,$radius,$threshold){$/;"	f
+singleton	./libs/Dispatcher.class.php	/^		is_null($singleton) && $singleton = new Dispatcher();$/;"	v
+singleton	./libs/Dispatcher.class.php	/^		static $singleton = NULL;$/;"	v
+singleton	./libs/HttpRequest.class.php	/^		is_null($singleton) && $singleton = new HttpRequest();$/;"	v
+singleton	./libs/HttpRequest.class.php	/^		static $singleton = NULL;$/;"	v
+singletons	./libs/orm/Database.class.php	/^		static $singletons = array();$/;"	v
+sizeInfo	./libs/image/Imagick.class.php	/^        $sizeInfo = self::calcScaleImgSize($this->info['width'],$this->info['height'],$/;"	v
+sortArray	./libs/Utilities.class.php	/^    public static function sortArray($array, $order_by, $order_type = 'ASC') {$/;"	f
+special	./libs/Utilities.class.php	/^		$special = array('台湾' => 1, '香港特别行政区' => 1, '澳门特别行政区' => 1);$/;"	v
+sql	./libs/orm/Database.class.php	/^		$sql = sprintf("DELETE FROM %s %s", $sql_table, $sql_query);$/;"	v
+sql	./libs/orm/Database.class.php	/^		$sql = sprintf("SELECT %s FROM %s %s %s %s", $selects, $sql_table, $sql_query, $sql_order, $sql_limit);$/;"	v
+sql	./libs/orm/Database.class.php	/^		$sql = sprintf("SELECT %s.%s FROM %s %s %s %s", $sql_table, $field, $sql_table, $sql_query, $sql_order, $sql_limit);$/;"	v
+sql	./libs/orm/Database.class.php	/^		$sql = sprintf("SELECT %s.* FROM %s %s %s %s", $sql_table, $sql_table, $sql_query, $sql_order, $sql_limit);$/;"	v
+sql	./libs/orm/Database.class.php	/^		$sql = sprintf("SELECT COUNT(1) AS num FROM %s %s", $sql_table, $sql_query);$/;"	v
+sql	./libs/orm/Database.class.php	/^		$sql = sprintf("UPDATE %s SET %s %s", $sql_table, $updates, $sql_query);$/;"	v
+sql	./libs/orm/Database.class.php	/^		$sql = sprintf('DELETE FROM %s WHERE %s = :_id', $class::_TABLE_, $class::_PRIMARY_KEY_);$/;"	v
+sql	./libs/orm/Database.class.php	/^		$sql = sprintf('SELECT * FROM %s WHERE %s = :_id', $class::_TABLE_, $class::_PRIMARY_KEY_);$/;"	v
+sql	./libs/orm/Database.class.php	/^	private function catchError($sth, $sql = '', $params = '') {$/;"	v
+sql	./libs/orm/Database.class.php	/^                $sql = sprintf('INSERT IGNORE INTO %s SET %s', $class::_TABLE_, $fields);$/;"	v
+sql	./libs/orm/Database.class.php	/^                $sql = sprintf('UPDATE %s SET %s WHERE %s = :_id', $class::_TABLE_, $fields, $class::_PRIMARY_KEY_);$/;"	v
+sql	./libs/orm/Database.class.php	/^            $sql = sprintf('INSERT INTO %s SET %s', $class::_TABLE_, $fields);$/;"	v
+sql	./libs/orm/Database.class.php	/^        $sql = sprintf('REPLACE INTO %s SET %s', $class::_TABLE_, $fields);$/;"	v
+sql	./package/demo/Demo.class.php	/^		$sql = ' SELECT ' . self::$col . ' FROM ' . self::$table . ' WHERE twitter_id = :_twitter_id ';$/;"	v
+sql	./package/feedback/Feedback.class.php	/^        $sql = $/;"	v
+sql_data	./package/feedback/Feedback.class.php	/^        $sql_data = array($/;"	v
+sql_limit	./libs/orm/QuerySet.class.php	/^				$sql_limit = " LIMIT {$limit} OFFSET {$offset}";$/;"	v
+sql_limit	./libs/orm/QuerySet.class.php	/^		$sql_limit = '';$/;"	v
+sql_monitor	./libs/Task.class.php	/^		$sql_monitor = SQLMonitor::getMonitor();$/;"	v
+sql_order	./libs/orm/QuerySet.class.php	/^		$sql_order = '';$/;"	v
+sql_query	./libs/orm/QuerySet.class.php	/^		$sql_query = $this->createWhere();$/;"	v
+sql_query	./libs/orm/QuerySet.class.php	/^		$sql_query = '';$/;"	v
+sql_table	./libs/orm/QuerySet.class.php	/^		$sql_table = $parent::_TABLE_;$/;"	v
+sql_table	./libs/orm/QuerySet.class.php	/^		$sql_table = '';$/;"	v
+ssl_verifypeer	./libs/ZooClient.class.php	/^	public $ssl_verifypeer = FALSE;$/;"	v
+ssl_verifypeer	./libs/remote/Remote.class.php	/^	public $ssl_verifypeer = FALSE;$/;"	v
+startAnylize	./libs/Dispatcher.class.php	/^	private function startAnylize() {$/;"	f
+sth	./libs/orm/Database.class.php	/^		$sth = $connection->prepare($sql, array(PDO::MYSQL_ATTR_USE_BUFFERED_QUERY => FALSE));$/;"	v
+sth	./libs/orm/Database.class.php	/^		$sth = $this->prepare($sql, $params, $type);$/;"	v
+sth	./libs/orm/Database.class.php	/^		$sth = $this->prepare($sql, $params, self::MASTER);$/;"	v
+stmt	./libs/orm/F.class.php	/^		$stmt = "";$/;"	v
+stmt	./libs/orm/Q.class.php	/^		$stmt = "";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^					$stmt = "{$field} = '{$value}'";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^					$stmt = "{$field} = 0";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^					$stmt = "{$field} BETWEEN '{$value[0]}' AND '{$value[1]}'";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^					$stmt = "{$field} IN (" . implode (", ", $ids) . ")";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^					$stmt = "{$field} IS NOT NULL";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^					$stmt = "{$field} IS NULL";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^				$stmt = "EXTRACT ('day' FROM {$field}) = '{$value}'";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^				$stmt = "EXTRACT('dayofweek' FROM {$field}) = '{$value}'";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^				$stmt = "EXTRACT('month' FROM {$field}) = '{$value}'";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^				$stmt = "EXTRACT('year' FROM {$field}) = '{$value}'";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^				$stmt = "MATCH({$table}, {$field}) AGAINST ('{$value}' IN BOOLEAN MODE)";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^				$stmt = "{$field} < '{$value}'";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^				$stmt = "{$field} <= '{$value}'";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^				$stmt = "{$field} > '{$value}'";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^				$stmt = "{$field} >= '{$value}'";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^				$stmt = "{$field} ILIKE '%{$value}%'";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^				$stmt = "{$field} ILIKE '%{$value}'";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^				$stmt = "{$field} ILIKE '{$value}%'";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^				$stmt = "{$field} ILIKE '{$value}'";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^				$stmt = "{$field} LIKE '%{$value}%'";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^				$stmt = "{$field} LIKE '%{$value}'";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^				$stmt = "{$field} LIKE '{$value}%'";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^				$stmt = "{$field} REGEXP '{$value}'";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^				$stmt = "{$field} REGEXP BINARY '{$value}'";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^				$stmt = $this->formatArgument($arg);$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^		$arg->isNot() && $stmt = "NOT ({$stmt})";$/;"	v
+stmt	./libs/orm/QuerySet.class.php	/^		$stmt = '';$/;"	v
+str	./libs/remote/Remote.class.php	/^            $str = json_encode($parameters) . "\\t";$/;"	v
+str_len	./libs/Utilities.class.php	/^		$str_len       = strlen($json);$/;"	v
+str_loc	./libs/image/Image.class.php	/^                   $str_loc=$where2+1;$/;"	v
+str_loc	./libs/image/Image.class.php	/^               $str_loc=$where1+1;$/;"	v
+str_loc	./libs/image/Image.class.php	/^        $str_loc = 0;$/;"	v
+string	./libs/Utilities.class.php	/^                $string = ($strip ? stripslashes($string) : $string);$/;"	v
+string	./libs/Utilities.class.php	/^                $string = htmlspecialchars($string);$/;"	v
+subfield	./libs/orm/QuerySet.class.php	/^			$subfield = NULL;$/;"	v
+success	./libs/orm/Database.class.php	/^		$success = $this->catchError($sth, $sql, $params);$/;"	v
+table	./libs/orm/QuerySet.class.php	/^				$table = strtolower($class::_TABLE_);$/;"	v
+table	./libs/orm/QuerySet.class.php	/^		$table = $model_class::_TABLE_;$/;"	v
+table	./package/demo/Demo.class.php	/^	private static $table = 't_dolphin_twitter_info';$/;"	v
+table	./package/feedback/Feedback.class.php	/^    private static $table = 't_dolphin_feedback';$/;"	v
+taobaoId	./libs/Utilities.class.php	/^            $taobaoId = $matchs[1];$/;"	v
+taobaoId	./libs/Utilities.class.php	/^            $taobaoId = 0;$/;"	v
+taobaoIdFilter	./libs/Utilities.class.php	/^	public static function taobaoIdFilter($url) {$/;"	f
+target_matching_field	./libs/orm/Model.class.php	/^					$target_matching_field = $to_field;$/;"	v
+target_matching_field	./libs/orm/Model.class.php	/^			$target_matching_field = NULL;$/;"	v
+templateDriver	./libs/Controller.class.php	/^        $templateDriver = TemplateDriver::getInstance();    $/;"	v
+templateDriver	./libs/TemplateDriver.class.php	/^    private static $templateDriver = NULL; $/;"	v
+templatePath	./libs/TemplateDriver.class.php	/^    private $templatePath = TEMPLATE_PATH;$/;"	v
+test	./libs/orm/QuerySet.class.php	/^	 * $test = SomeClass::get();$/;"	v
+tests	./libs/orm/QuerySet.class.php	/^			$tests = array();$/;"	v
+text	./modules/help/Feedback_add.class.php	/^        $this->text = trim($this->request->REQUEST['text']);$/;"	v
+text	./modules/help/Feedback_add.class.php	/^    private $text = '';$/;"	v
+this	./libs/orm/QuerySet.class.php	/^	 * Returns what Model class this QuerySet pertains to$/;"	c
+through	./libs/orm/ManyToManyField.class.php	/^		$this->through = $through;$/;"	v
+through	./libs/orm/ManyToManyField.class.php	/^	private $through;$/;"	v
+through	./libs/orm/ManyToManyRelation.class.php	/^		$this->through = $through;$/;"	v
+through	./libs/orm/ManyToManyRelation.class.php	/^	private $through;$/;"	v
+through	./libs/orm/Model.class.php	/^			$through = $relation->getThroughClass();$/;"	v
+through	./libs/orm/QuerySet.class.php	/^                    $through = $relation->getThroughClass();$/;"	v
+through_field	./libs/orm/Model.class.php	/^					$through_field = $maybe_relation->getField();$/;"	v
+through_field	./libs/orm/Model.class.php	/^			$through_field = NULL;$/;"	v
+through_relations	./libs/orm/Model.class.php	/^			$through_relations = $through::getRelations();$/;"	v
+timeByMin	./libs/Utilities.class.php	/^	public static function timeByMin( $num ) {$/;"	f
+timeDetail	./libs/Utilities.class.php	/^		$timeDetail = localtime(time(), TRUE);$/;"	v
+timeOut	./libs/Curl.class.php	/^		$this->timeOut = $time;$/;"	v
+timeOut	./libs/Curl.class.php	/^	var $timeOut = 30;$/;"	v
+timeout	./libs/ZooClient.class.php	/^	public $timeout = 5;$/;"	v
+timeout	./libs/remote/Remote.class.php	/^	public $timeout = 1;$/;"	v
+toLowerCase	./libs/Utilities.class.php	/^            if( $toLowerCase === true ) {$/;"	v
+toLowerCase	./libs/Utilities.class.php	/^    public static function changeDataKeys($data, $keyName, $toLowerCase=false) {$/;"	v
+to_class	./libs/orm/ForeignKey.class.php	/^		$to_class = $this->to_class;$/;"	v
+to_class	./libs/orm/Model.class.php	/^			$to_class = $relation->getClass();$/;"	v
+to_class	./libs/orm/Model.class.php	/^                $to_class = $matches[1];$/;"	v
+to_class	./libs/orm/Model.class.php	/^            $to_class = $relation->getClass();$/;"	v
+to_class	./libs/orm/QuerySet.class.php	/^					$to_class = $relation->getClass();$/;"	v
+to_class	./libs/orm/QuerySet.class.php	/^                    $to_class = $relation->getClass();$/;"	v
+to_class_relations	./libs/orm/Model.class.php	/^			$to_class_relations = $to_class::getRelations();$/;"	v
+to_field	./libs/orm/ForeignKey.class.php	/^        $this->to_field = $field;$/;"	v
+to_field	./libs/orm/ForeignKey.class.php	/^    private $to_field;$/;"	v
+to_field	./libs/orm/Model.class.php	/^					$to_field = $maybe_relation->getField();$/;"	v
+to_field	./libs/orm/Model.class.php	/^			$to_field = NULL;$/;"	v
+to_field	./libs/orm/Model.class.php	/^			foreach ($to_class::getRelations() AS $to_field => $to_relation) {$/;"	v
+to_field	./libs/orm/Model.class.php	/^                $to_field = $matches[2];$/;"	v
+to_field	./libs/orm/Model.class.php	/^            $to_field = $relation->getField();$/;"	v
+to_key_field	./libs/orm/QuerySet.class.php	/^                            $to_key_field = $r->getField();$/;"	v
+to_key_field	./libs/orm/QuerySet.class.php	/^                    $to_key_field = NULL;$/;"	v
+todayTime	./libs/Utilities.class.php	/^		$todayTime = strtotime(date("Y-m-d"));$/;"	v
+token	./libs/Controller.class.php	/^		$token = $this->request->REQUEST['token'];$/;"	v
+trace	./libs/VException.class.php	/^        $trace = str_replace("\\n", "\\t", $this->getTraceAsString());$/;"	v
+twitter_data	./modules/demo/Test.class.php	/^		$twitter_data = Demo::getInstance()->getDataInfo($this->twitter_id);$/;"	v
+twitter_id	./libs/ZooClient.class.php	/^	public function twitter_likes_state($user_id, $twitter_id = array()) {$/;"	v
+twitter_id	./modules/demo/Test.class.php	/^		$this->twitter_id = isset($this->request->REQUEST['twitter_id']) ? (int)$this->request->REQUEST['twitter_id'] : 1;$/;"	v
+twitter_id	./modules/demo/Test.class.php	/^	protected $twitter_id;$/;"	v
+twitter_ids	./libs/ZooClient.class.php	/^		$twitter_ids = implode(',', $twitter_id);$/;"	v
+twitter_like	./libs/ZooClient.class.php	/^	public function twitter_like($twitter_id, $method, $params = array()) {$/;"	f
+twitter_likes_state	./libs/ZooClient.class.php	/^	public function twitter_likes_state($user_id, $twitter_id = array()) {$/;"	f
+twitter_stat	./libs/ZooClient.class.php	/^	public function twitter_stat($params) {$/;"	f
+twitters_likes_count	./libs/ZooClient.class.php	/^	public function twitters_likes_count($twitter_id = array()) {$/;"	f
+twitters_stat	./libs/ZooClient.class.php	/^	public function twitters_stat($twitter_id = array()) {$/;"	f
+type	./libs/SnakeClient.class.php	/^		$this->type = $type;$/;"	v
+type	./libs/SnakeClient.class.php	/^	private $type = 'curl';$/;"	v
+type	./libs/SnakeClient.class.php	/^	public static function getRemote($remote, $type = 'curl') {$/;"	v
+type	./libs/Utilities.class.php	/^        $type = strtolower($type);$/;"	v
+type	./libs/Utilities.class.php	/^    public static function getPictureUrl($key, $type = "_o") {$/;"	v
+type	./libs/ZooClient.class.php	/^	public function push_group_twitter($group_id, $type = NULL, $tids = array()) {$/;"	v
+type	./libs/orm/Database.class.php	/^		$type = $from_master ? self::MASTER : self::SLAVE;$/;"	v
+ua	./modules/help/Feedback_add.class.php	/^        $ua = explode(' ', $this->request->agent);$/;"	v
+uniqid	./libs/Dispatcher.class.php	/^			$uniqid = uniqid();$/;"	v
+update	./libs/orm/QuerySet.class.php	/^	public function update($args) {$/;"	f
+updates	./libs/orm/Database.class.php	/^		$updates = array();$/;"	v
+updates	./libs/orm/Database.class.php	/^		$updates = implode(', ', $updates);$/;"	v
+uri	./libs/HttpRequest.class.php	/^		$uri = preg_replace("\/\\?.*\/", '', $_SERVER['REQUEST_URI']);$/;"	v
+url	./libs/Curl.class.php	/^			$url = substr ( $url , 0 , $checkPos );$/;"	v
+url	./libs/Curl.class.php	/^	var $url = '';$/;"	v
+url	./libs/CurlLink.class.php	/^		$this->url = $url;$/;"	v
+url	./libs/CurlLink.class.php	/^	private $url = '';$/;"	v
+url	./libs/SnakeClient.class.php	/^	private $url = '';$/;"	v
+url	./libs/SnakeClient.class.php	/^            $this->url = $this->url . '?' . $parameter;$/;"	v
+url	./libs/SnakeClient.class.php	/^        $this->url = $this->host . $param['core']['url'];$/;"	v
+url	./libs/ZooClient.class.php	/^					$url = "{$url}?{$parameters}";$/;"	v
+url	./libs/ZooClient.class.php	/^				$url = $url . '?' . http_build_query($parameters);$/;"	v
+url	./libs/ZooClient.class.php	/^		$this->url = $url;$/;"	v
+url	./libs/ZooClient.class.php	/^		$url = $this->host . 'group\/group_twitter_mix';$/;"	v
+url	./libs/ZooClient.class.php	/^		$url = $this->host . 'twitter\/' . $twitter_id . '\/likes';$/;"	v
+url	./libs/ZooClient.class.php	/^		$url = $this->host . 'twitters\/likes_count';$/;"	v
+url	./libs/ZooClient.class.php	/^		$url = $this->host . 'twitters\/likes_state';$/;"	v
+url	./libs/ZooClient.class.php	/^		$url = $this->host . 'twitters\/twitter_stat';$/;"	v
+url	./libs/ZooClient.class.php	/^		$url = $this->host . 'user\/' . $user_id . '\/likes\/twitter';$/;"	v
+url	./libs/ZooClient.class.php	/^		$url = $this->host . 'user\/login_time';$/;"	v
+url	./libs/ZooClient.class.php	/^		$url = $this->host . 'user\/snaketask';$/;"	v
+url	./libs/ZooClient.class.php	/^		$url = $this->host . 'user\/task';$/;"	v
+url	./libs/ZooClient.class.php	/^		$url = $this->host . 'user\/timeline';$/;"	v
+url	./libs/ZooClient.class.php	/^	public $url;$/;"	v
+url	./libs/remote/Remote.class.php	/^				$url = $url . '?' . http_build_query($parameters);$/;"	v
+url	./libs/remote/Remote.class.php	/^		$this->url = $url;$/;"	v
+url	./libs/remote/Remote.class.php	/^	public $url;$/;"	v
+url	./libs/remote/Remote.class.php	/^        $url = $args[1];$/;"	v
+urlHost	./libs/Utilities.class.php	/^        $urlHost = $urlInfo['host'];$/;"	v
+urlInfo	./libs/Utilities.class.php	/^        $urlInfo = parse_url($url);$/;"	v
+userAgent	./libs/Curl.class.php	/^	var $userAgent = "Sogou web spider\/4.0(+http:\/\/www.sogou.com\/docs\/help\/webmasters.htm#07)";$/;"	v
+userId	./libs/ZooClient.class.php	/^		$this->userId = $userId;$/;"	v
+userId	./libs/ZooClient.class.php	/^	public $userId = NULL;$/;"	v
+user_agent	./libs/Curl.class.php	/^	\/\/var $user_agent = "MeilishuoSpider+(+http:\/\/www.meilishuo.com\/spider.html))"; $/;"	v
+user_agent	./libs/Curl.class.php	/^	\/\/var $user_agent = "Mozilla\/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; Maxthon 2.0)";$/;"	v
+user_id	./libs/ZooClient.class.php	/^		$this->user_id = $user_id;$/;"	v
+user_id	./libs/ZooClient.class.php	/^	private $user_id;$/;"	v
+user_likes_twitters	./libs/ZooClient.class.php	/^	public function user_likes_twitters($user_id = 0, $offset = 0, $limit = 20) {$/;"	f
+user_login	./libs/ZooClient.class.php	/^	public function user_login($user_id, $time) {$/;"	f
+user_snake_task	./libs/ZooClient.class.php	/^	public function user_snake_task($params) {$/;"	f
+user_task	./libs/ZooClient.class.php	/^	public function user_task($params) {$/;"	f
+user_timeline	./libs/ZooClient.class.php	/^	public function user_timeline($params) {$/;"	f
+useragent	./libs/ZooClient.class.php	/^	public $useragent = 'Meilishuo Snake Connect';$/;"	v
+useragent	./libs/remote/Remote.class.php	/^	public $useragent = 'Gate Http Connect';$/;"	v
+username	./modules/auth/Login.class.php	/^		$this->username = isset($this->request->REQUEST['username']) ? $this->request->REQUEST['username'] : '';$/;"	v
+username	./modules/auth/Login.class.php	/^	protected $username;$/;"	v
+users	./libs/orm/QuerySet.class.php	/^		\/\/ $users = Model::objects()$/;"	v
+valid	./libs/orm/Collection.class.php	/^	public function valid() {$/;"	f
+value	./libs/CurlLink.class.php	/^			$value = $args[1];	$/;"	v
+value	./libs/Redis.class.php	/^		$value = base64_encode(serialize($value));$/;"	v
+value	./libs/orm/CallbackExpression.class.php	/^		$this->value = $query;$/;"	v
+value	./libs/orm/Database.class.php	/^			$value = self::quoteSmart($value);$/;"	v
+value	./libs/orm/Expression.class.php	/^			$this->value = $value;$/;"	v
+value	./libs/orm/Expression.class.php	/^	protected $value = NULL;$/;"	v
+value	./libs/orm/Model.class.php	/^			!is_array($value) && $value = array($value);$/;"	v
+value	./libs/orm/Object.class.php	/^					$value = $value->id;$/;"	v
+value	./libs/orm/Object.class.php	/^				$value = $this->fields[$field];$/;"	v
+value	./libs/orm/QuerySet.class.php	/^						$value = $args[1];$/;"	v
+value	./libs/orm/QuerySet.class.php	/^						$value = $through::objects()->filter("{$to_key_field}__in", $value)->select($self_key_field);$/;"	v
+value	./libs/orm/QuerySet.class.php	/^						$value = $through::objects()->filter("{$to_key_field}__{$operator}", $args[1])->select($self_key_field);$/;"	v
+value	./libs/orm/QuerySet.class.php	/^						$value = $to_class::objects()->filter("{$remote_field}__{$operator}", $args[1])->select($to_class::_PRIMARY_KEY_);$/;"	v
+value	./libs/orm/QuerySet.class.php	/^			$value = Database::quoteSmart($value);$/;"	v
+value	./libs/orm/QuerySet.class.php	/^		$value = $arg->getValue();$/;"	v
+value	./libs/orm/QuerySet.class.php	/^                    $value = $to_class::objects()->filter("{$remote_field}__{$operator}", $args[1])->select($foreign_key_field);$/;"	v
+value	./libs/orm/QuerySet.class.php	/^                $value = $args[1];$/;"	v
+values	./libs/orm/Model.class.php	/^			$values = array();$/;"	v
+values	./libs/orm/QuerySet.class.php	/^			$values = $item[$col];$/;"	v
+values	./libs/orm/QuerySet.class.php	/^		$values = array();$/;"	v
+varHader	./libs/Curl.class.php	/^        $varHader = explode("\\r\\n", $header);$/;"	v
+varresult	./libs/Curl.class.php	/^                $varresult = explode(":", $varHader[$i]);$/;"	v
+view	./libs/Controller.class.php	/^	protected $view = "";$/;"	v
+view	./modules/auth/Login.class.php	/^			$this->view = array('code' => 400, 'message' => 'Empty Params');$/;"	v
+view	./modules/demo/Test.class.php	/^			$this->view = array('code' => 400, 'message' => 'Empty twitter_id');$/;"	v
+view	./modules/demo/Test.class.php	/^		$this->view = $twitter_data;$/;"	v
+where	./libs/orm/QueryFilter.class.php	/^			$where = " AND " . $where;$/;"	v
+where	./libs/orm/QueryFilter.class.php	/^			$where = " WHERE " . $where;$/;"	v
+where	./libs/orm/QuerySet.class.php	/^		$where = '';$/;"	v
+where1	./libs/image/Image.class.php	/^           $where1 = strpos($filecontents,"\\x00\\x21\\xF9\\x04",$str_loc);$/;"	v
+where2	./libs/image/Image.class.php	/^               $where2=strpos($filecontents,"\\x00\\x2C",$str_loc);$/;"	v
+which	./libs/orm/Model.class.php	/^					\/\/ object of the class which the foreign key represents$/;"	c
+which	./libs/orm/Model.class.php	/^				\/\/ object of the class which the foreign key represents$/;"	c
+whichTen	./libs/Utilities.class.php	/^		$whichTen = ($timeDetail['tm_hour'] * 3600 + $timeDetail['tm_min'] * 60 + $timeDetail['tm_sec']) \/ (60 * $num);$/;"	v
+whichTen	./libs/Utilities.class.php	/^		$whichTen = floor($whichTen);$/;"	v
+white	./libs/Controller.class.php	/^		$white = array();$/;"	v
+whole	./libs/Utilities.class.php	/^    public static function getDomain($url, $whole = FALSE) {$/;"	v
+width	./libs/image/Imagick.class.php	/^                        $width=NULL, $height=NULL,$upscale=FALSE){$/;"	v
+width	./libs/image/Imagick.class.php	/^            $width = !empty($width) ? $width : $height \/ $aspect;$/;"	v
+width	./libs/image/Imagick.class.php	/^            $width = !empty($width) ? $width : 9999999;$/;"	v
+width	./libs/image/Imagick.class.php	/^            $width = $height \/ $aspect;$/;"	v
+width0	./libs/image/Imagick.class.php	/^            $width0 = $this->info['width'];$/;"	v
+widthIng	./libs/image/Imagick.class.php	/^                $widthIng = $this->imagickObj->getImageWidth();$/;"	v
+write	./libs/orm/Database.class.php	/^	public function write($sql, $params = array()) {$/;"	f
+writeHost	./config/dev/Redis.class.php	/^		$this->writeHost = 'http:\/\/192.168.128.139\/write';$/;"	v
+xhprof	./libs/Dispatcher.class.php	/^	private $xhprof = FALSE;$/;"	v
+xhprof_data	./libs/Dispatcher.class.php	/^			$xhprof_data = xhprof_disable();	$/;"	v
+xhprof_obj	./libs/Dispatcher.class.php	/^			$xhprof_obj = new \\Gate\\Package\\User\\Xhprof();$/;"	v
+xwriteHost	./config/dev/Redis.class.php	/^		$this->xwriteHost = 'http:\/\/192.168.128.139\/xwrite';$/;"	v
+yesterday	./libs/Utilities.class.php	/^		$yesterday = date('ymd', $_SERVER['REQUEST_TIME'] - 86400);$/;"	v
+zaddslashes	./libs/Utilities.class.php	/^    public static function zaddslashes($string, $force = 0, $strip = FALSE) {$/;"	f
