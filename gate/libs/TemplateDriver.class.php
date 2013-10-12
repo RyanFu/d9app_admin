@@ -48,7 +48,7 @@ class TemplateDriver {
     }
 
     private function loadHeader() {
-        extract(array('nickname' => $this->user->login));
+        extract(array('nickname' => $this->user->user_name));
         require($this->templatePath . "header.view.php");
     }
 
